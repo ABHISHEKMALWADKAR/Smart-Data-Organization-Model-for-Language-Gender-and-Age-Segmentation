@@ -1,0 +1,1001 @@
+ID	Name	Age	Gender	Country	Native Language	Other Languages	Language Proficiency Percentage
+1	Norma Fisher	50	Female	Turkey	Turkish	"Hindi (Beginner), Japanese (Fluent)"	50.0%
+2	Jorge Sullivan	36	Male	Brazil	Portuguese	"Russian (Intermediate), Italian (Intermediate)"	50.0%
+3	Elizabeth Woods	52	Other	Nigeria	Yoruba	French (Fluent)	75.0%
+4	Susan Wagner	53	Male	Nigeria	Yoruba	"Turkish (Beginner), Spanish (Fluent), Korean (Native)"	66.67%
+5	Peter Montgomery	46	Other	Russia	Russian	"Portuguese (Intermediate), Yoruba (Native)"	75.0%
+6	Theodore Mcgrath	23	Other	China	Mandarin	Hindi (Beginner)	25.0%
+7	Stephanie Collins	70	Female	Turkey	Turkish	"Vietnamese (Beginner), Hindi (Native)"	62.5%
+8	Stephanie Sutton	69	Male	India	Hindi	"Portuguese (Intermediate), Mandarin (Intermediate), Korean (Intermediate)"	50.0%
+9	Brian Hamilton	37	Other	Nigeria	Yoruba	"Japanese (Fluent), Korean (Native), Hindi (Beginner)"	66.67%
+10	Susan Levy	23	Other	China	Mandarin	"Korean (Intermediate), Russian (Fluent), Portuguese (Native)"	75.0%
+11	Sean Green	29	Male	Nigeria	Yoruba	"Portuguese (Intermediate), French (Fluent)"	62.5%
+12	Kimberly Smith	48	Male	Turkey	Turkish	Arabic (Fluent)	75.0%
+13	Jennifer Summers	63	Other	France	French	"Hindi (Beginner), Turkish (Beginner), English (Native)"	50.0%
+14	April Snyder	49	Other	China	Mandarin	"Hindi (Native), German (Fluent), English (Native)"	91.67%
+15	Dana Nguyen	55	Other	Italy	Italian	"Hindi (Fluent), Portuguese (Beginner), Korean (Native)"	66.67%
+16	Cheryl Bradley	64	Female	Russia	Russian	German (Beginner)	25.0%
+17	Walter Pratt	24	Male	France	French	"German (Fluent), Portuguese (Native), Turkish (Beginner)"	66.67%
+18	Bobby Flores	58	Male	Turkey	Turkish	"Spanish (Beginner), Arabic (Beginner), Yoruba (Beginner)"	25.0%
+19	Tasha Rodriguez	56	Male	Egypt	Arabic	"Turkish (Fluent), Japanese (Beginner), English (Beginner)"	41.67%
+20	Michelle Kelley	48	Male	India	Hindi	Mandarin (Beginner)	25.0%
+21	Kimberly Maynard	52	Female	South Korea	Korean	Mandarin (Beginner)	25.0%
+22	Laurie Wallace	22	Male	Egypt	Arabic	English (Fluent)	75.0%
+23	Janice Johnston	20	Other	France	French	"Spanish (Intermediate), Portuguese (Beginner), Italian (Native)"	58.33%
+24	Collin Lopez	62	Other	France	French	"Italian (Fluent), German (Native), Spanish (Intermediate)"	75.0%
+25	Mary Alvarez	28	Female	India	Hindi	Vietnamese (Intermediate)	50.0%
+26	Peter Mcdowell	18	Female	Mexico	Spanish	"Korean (Native), Yoruba (Intermediate)"	75.0%
+27	Sarah Villanueva	42	Other	Italy	Italian	"Yoruba (Fluent), French (Fluent)"	75.0%
+28	Kimberly Myers	47	Other	China	Mandarin	Russian (Beginner)	25.0%
+29	Desiree Cain	33	Female	France	French	"Vietnamese (Fluent), Arabic (Intermediate)"	62.5%
+30	Stephanie Lawrence	65	Female	Russia	Russian	"Spanish (Intermediate), Mandarin (Fluent), Portuguese (Native)"	75.0%
+31	Lauren Hayes	33	Male	Turkey	Turkish	"Korean (Intermediate), Arabic (Fluent), Yoruba (Intermediate)"	58.33%
+32	Whitney Stark	43	Other	Italy	Italian	"Japanese (Native), Vietnamese (Beginner)"	62.5%
+33	Angela Salazar	46	Male	Egypt	Arabic	"Hindi (Beginner), Mandarin (Intermediate)"	37.5%
+34	Mr. Ryan Sanchez	49	Female	China	Mandarin	"Turkish (Native), Japanese (Beginner), Russian (Beginner)"	50.0%
+35	Autumn Robinson	53	Other	China	Mandarin	"Arabic (Native), Hindi (Intermediate)"	75.0%
+36	Faith Cabrera	31	Male	France	French	"Turkish (Native), Arabic (Fluent), Italian (Beginner)"	66.67%
+37	Charles Wolfe	30	Male	South Korea	Korean	English (Beginner)	25.0%
+38	Kenneth Kent	43	Other	Egypt	Arabic	"Spanish (Intermediate), Portuguese (Beginner), Hindi (Native)"	58.33%
+39	Melanie Johnson	69	Male	France	French	Spanish (Native)	100.0%
+40	Lisa Johnston	27	Female	Turkey	Turkish	"German (Fluent), Mandarin (Beginner)"	50.0%
+41	Jacob Hooper	31	Other	Turkey	Turkish	Arabic (Beginner)	25.0%
+42	Alex Woodward	58	Female	China	Mandarin	"Portuguese (Beginner), English (Native), French (Native)"	75.0%
+43	Caleb Clark	27	Female	Russia	Russian	"Turkish (Fluent), German (Beginner), Italian (Intermediate)"	50.0%
+44	Taylor Johnson	67	Other	Russia	Russian	"Hindi (Beginner), Portuguese (Fluent)"	50.0%
+45	Brian Green	27	Other	USA	English	Spanish (Intermediate)	50.0%
+46	Matthew Bell	25	Female	China	Mandarin	"Italian (Intermediate), Russian (Fluent)"	62.5%
+47	Jonathan Williams	29	Other	South Korea	Korean	Arabic (Fluent)	75.0%
+48	William Gonzalez	39	Female	South Korea	Korean	Portuguese (Native)	100.0%
+49	Nicholas Massey	48	Female	Brazil	Portuguese	Korean (Native)	100.0%
+50	Caroline Chambers	45	Male	Turkey	Turkish	"Korean (Beginner), Russian (Native)"	62.5%
+51	Amy Lowe	58	Other	China	Mandarin	"Vietnamese (Intermediate), Yoruba (Intermediate)"	50.0%
+52	Gloria King	42	Male	Brazil	Portuguese	"Korean (Intermediate), English (Intermediate), Hindi (Beginner)"	41.67%
+53	Jessica Thompson	49	Other	France	French	"Russian (Fluent), English (Native)"	87.5%
+54	Jason Carroll	55	Male	South Korea	Korean	"Spanish (Fluent), Japanese (Intermediate), Turkish (Fluent)"	66.67%
+55	Emily Howard	22	Other	Brazil	Portuguese	Italian (Beginner)	25.0%
+56	Danielle Castro	43	Female	USA	English	"Japanese (Intermediate), Vietnamese (Beginner), Yoruba (Native)"	58.33%
+57	Patrick Rogers	47	Female	India	Hindi	"Arabic (Intermediate), Vietnamese (Beginner), German (Intermediate)"	41.67%
+58	Douglas Allen	58	Other	Russia	Russian	"English (Native), Turkish (Intermediate), Korean (Native)"	83.33%
+59	Heather Roberts	52	Other	Brazil	Portuguese	"Russian (Native), Mandarin (Native), Italian (Intermediate)"	83.33%
+60	Travis Schultz	63	Other	Vietnam	Vietnamese	Arabic (Fluent)	75.0%
+61	Michelle Hughes	34	Other	Vietnam	Vietnamese	"English (Beginner), Portuguese (Intermediate)"	37.5%
+62	Matthew Smith	55	Female	Nigeria	Yoruba	English (Native)	100.0%
+63	George Allen	32	Male	South Korea	Korean	"Hindi (Beginner), Russian (Beginner), Turkish (Beginner)"	25.0%
+64	Jamie Hutchinson	28	Male	USA	English	"Arabic (Native), Vietnamese (Fluent)"	87.5%
+65	Jennifer Morales	61	Other	Turkey	Turkish	"Russian (Native), Italian (Beginner), French (Beginner)"	50.0%
+66	Jennifer Bates	70	Female	Nigeria	Yoruba	"Korean (Intermediate), Vietnamese (Fluent), Italian (Native)"	75.0%
+67	Jeremy Green	60	Male	Turkey	Turkish	"Yoruba (Intermediate), English (Beginner)"	37.5%
+68	Joseph Freeman	39	Male	South Korea	Korean	Portuguese (Fluent)	75.0%
+69	Nicole Henson	69	Female	Japan	Japanese	"English (Native), Spanish (Native)"	100.0%
+70	Eric Owens PhD	33	Female	USA	English	Yoruba (Intermediate)	50.0%
+71	Robin Lopez	27	Female	South Korea	Korean	"Arabic (Native), English (Native)"	100.0%
+72	Miss Angela Swanson DVM	20	Other	Vietnam	Vietnamese	"Mandarin (Intermediate), Korean (Fluent), Yoruba (Native)"	75.0%
+73	Michael Stewart	67	Male	Japan	Japanese	"Russian (Beginner), Arabic (Native)"	62.5%
+74	Mitchell Smith	58	Female	USA	English	French (Intermediate)	50.0%
+75	Kelsey Davis	25	Male	France	French	"Russian (Intermediate), Mandarin (Native), Portuguese (Native)"	83.33%
+76	Matthew Russo	68	Male	Egypt	Arabic	"Russian (Fluent), Yoruba (Beginner), Mandarin (Fluent)"	58.33%
+77	William Garcia	20	Female	Vietnam	Vietnamese	"Hindi (Beginner), Spanish (Intermediate)"	37.5%
+78	Jennifer Miller	68	Other	Japan	Japanese	"Hindi (Native), German (Fluent)"	87.5%
+79	Jesse Sparks	34	Male	France	French	Arabic (Native)	100.0%
+80	Brandi Meyer	50	Female	Mexico	Spanish	"Yoruba (Intermediate), English (Beginner), German (Native)"	58.33%
+81	Hannah Wiggins	23	Male	France	French	Italian (Native)	100.0%
+82	Albert Williams	67	Male	Brazil	Portuguese	Korean (Native)	100.0%
+83	Kristin Potts	45	Other	South Korea	Korean	Hindi (Native)	100.0%
+84	Susan Williams	64	Female	Brazil	Portuguese	Russian (Fluent)	75.0%
+85	Meredith Rios	40	Female	France	French	"Korean (Fluent), English (Beginner)"	50.0%
+86	Stephanie Bowman	70	Female	Germany	German	English (Intermediate)	50.0%
+87	Joshua Clark	36	Female	France	French	"Turkish (Intermediate), German (Beginner), Arabic (Beginner)"	33.33%
+88	Alexa Hernandez	27	Male	South Korea	Korean	Yoruba (Intermediate)	50.0%
+89	Richard Higgins	63	Female	Japan	Japanese	Russian (Fluent)	75.0%
+90	Marc Williams	39	Female	Germany	German	Spanish (Fluent)	75.0%
+91	William Roberts	55	Male	China	Mandarin	"Russian (Fluent), Yoruba (Intermediate)"	62.5%
+92	Joshua Carter	69	Male	France	French	"Yoruba (Native), Spanish (Intermediate), Turkish (Intermediate)"	66.67%
+93	David Williams	60	Male	Russia	Russian	"German (Fluent), English (Fluent), Turkish (Native)"	83.33%
+94	Joseph Jones	43	Male	Turkey	Turkish	Yoruba (Beginner)	25.0%
+95	Gary Perry	37	Other	South Korea	Korean	German (Native)	100.0%
+96	Terry Wells	33	Female	Brazil	Portuguese	"Turkish (Fluent), Yoruba (Fluent), Japanese (Beginner)"	58.33%
+97	Vanessa Cooper	44	Male	Italy	Italian	"Mandarin (Beginner), French (Native)"	62.5%
+98	Michael Simmons	23	Male	Brazil	Portuguese	"Italian (Fluent), Russian (Fluent), German (Native)"	83.33%
+99	Nicholas Kline	53	Other	Nigeria	Yoruba	Spanish (Beginner)	25.0%
+100	Lori Bennett	43	Male	South Korea	Korean	Hindi (Native)	100.0%
+101	Margaret Jones	39	Other	Nigeria	Yoruba	"Italian (Intermediate), Turkish (Native)"	75.0%
+102	Paul Brown	66	Male	Germany	German	"Russian (Beginner), Mandarin (Native)"	62.5%
+103	James Stone	57	Female	China	Mandarin	English (Native)	100.0%
+104	John Richards	67	Other	USA	English	Spanish (Beginner)	25.0%
+105	Jenny Richardson	66	Male	China	Mandarin	"French (Native), Turkish (Beginner), Italian (Native)"	75.0%
+106	Debbie Waters MD	35	Other	Mexico	Spanish	"Portuguese (Beginner), Mandarin (Beginner)"	25.0%
+107	Austin Boyer	51	Other	USA	English	Spanish (Native)	100.0%
+108	Stephanie Hayes	36	Other	South Korea	Korean	"Russian (Fluent), Turkish (Fluent)"	75.0%
+109	Barbara Sanders	20	Male	Vietnam	Vietnamese	French (Beginner)	25.0%
+110	Andrew Gould	51	Male	Nigeria	Yoruba	"Spanish (Fluent), Russian (Beginner)"	50.0%
+111	Charles Gonzalez	36	Female	Vietnam	Vietnamese	Korean (Native)	100.0%
+112	Joshua Hernandez	52	Male	Mexico	Spanish	Yoruba (Intermediate)	50.0%
+113	Victoria Hernandez MD	41	Other	Brazil	Portuguese	"French (Fluent), Japanese (Fluent), Vietnamese (Native)"	83.33%
+114	Sherry Simpson	62	Male	Italy	Italian	Turkish (Beginner)	25.0%
+115	Erica Jimenez	40	Other	Brazil	Portuguese	"Yoruba (Intermediate), Russian (Fluent)"	62.5%
+116	Mr. Dakota Lynch II	59	Male	Japan	Japanese	"Italian (Native), German (Fluent), Russian (Native)"	91.67%
+117	Victor Nolan	57	Male	Japan	Japanese	"Turkish (Native), Vietnamese (Beginner)"	62.5%
+118	Amanda Hernandez	61	Male	USA	English	"Japanese (Beginner), Italian (Beginner)"	25.0%
+119	Richard Kirby	57	Male	Italy	Italian	"Mandarin (Fluent), Japanese (Beginner), Arabic (Beginner)"	41.67%
+120	Michelle Roman	30	Male	China	Mandarin	"Vietnamese (Intermediate), Spanish (Intermediate), English (Fluent)"	58.33%
+121	Bradley Melton	39	Female	Brazil	Portuguese	"Vietnamese (Native), Italian (Intermediate)"	75.0%
+122	Danny Williams	31	Male	Italy	Italian	"Japanese (Intermediate), Turkish (Fluent), Russian (Intermediate)"	58.33%
+123	Ryan Rivera	42	Other	Japan	Japanese	"Hindi (Native), Italian (Native)"	100.0%
+124	Charles Douglas	55	Other	India	Hindi	Japanese (Intermediate)	50.0%
+125	Kathy Santana	41	Male	USA	English	"Arabic (Beginner), German (Intermediate)"	37.5%
+126	Laura Gregory	67	Female	South Korea	Korean	"Mandarin (Fluent), German (Beginner), Spanish (Fluent)"	58.33%
+127	Norma Mooney	49	Female	Brazil	Portuguese	"Arabic (Native), Mandarin (Native)"	100.0%
+128	Susan Harris	20	Male	South Korea	Korean	"Spanish (Fluent), Italian (Beginner)"	50.0%
+129	Linda Petersen	22	Female	Germany	German	"Arabic (Beginner), Portuguese (Intermediate)"	37.5%
+130	Dr. James Willis	53	Male	Italy	Italian	Yoruba (Native)	100.0%
+131	Rebecca Sandoval	56	Male	Japan	Japanese	Portuguese (Beginner)	25.0%
+132	Christopher Hunter	34	Male	Nigeria	Yoruba	"Portuguese (Native), Russian (Fluent)"	87.5%
+133	Austin Heath	23	Male	Mexico	Spanish	German (Fluent)	75.0%
+134	Elizabeth Russell	51	Female	Turkey	Turkish	"Italian (Fluent), Spanish (Fluent), Hindi (Fluent)"	75.0%
+135	Amy Davidson	37	Other	China	Mandarin	"Portuguese (Intermediate), Vietnamese (Beginner)"	37.5%
+136	Dustin Greer	64	Female	France	French	Japanese (Native)	100.0%
+137	Andrew Butler	23	Male	USA	English	"Japanese (Native), Hindi (Beginner)"	62.5%
+138	Scott Love DDS	44	Male	India	Hindi	English (Intermediate)	50.0%
+139	William Jenkins	33	Female	Japan	Japanese	"Korean (Native), Italian (Beginner), French (Intermediate)"	58.33%
+140	Jasmine Williams	40	Female	India	Hindi	English (Fluent)	75.0%
+141	Christian Johnson	57	Other	Brazil	Portuguese	French (Fluent)	75.0%
+142	Lorraine Garcia	67	Female	Nigeria	Yoruba	Vietnamese (Fluent)	75.0%
+143	Hannah Reyes	19	Male	Mexico	Spanish	"Russian (Fluent), French (Fluent), Mandarin (Intermediate)"	66.67%
+144	Katherine Ibarra	36	Other	Egypt	Arabic	"Turkish (Native), German (Intermediate), Vietnamese (Intermediate)"	66.67%
+145	Julie Chen	21	Male	Italy	Italian	Vietnamese (Native)	100.0%
+146	Caleb Fleming	32	Other	Brazil	Portuguese	"Spanish (Fluent), Korean (Intermediate), Vietnamese (Fluent)"	66.67%
+147	Rachel Martinez	61	Female	Turkey	Turkish	Korean (Fluent)	75.0%
+148	Rebecca Stark	26	Male	India	Hindi	"Yoruba (Fluent), Japanese (Intermediate)"	62.5%
+149	Melanie Patrick	27	Male	Mexico	Spanish	"Italian (Beginner), English (Intermediate), Yoruba (Native)"	58.33%
+150	Rachel Lopez	68	Female	Mexico	Spanish	Turkish (Intermediate)	50.0%
+151	Jill Sherman	40	Other	Egypt	Arabic	"Spanish (Intermediate), English (Intermediate), Vietnamese (Native)"	66.67%
+152	Richard Jones	24	Other	Egypt	Arabic	Mandarin (Native)	100.0%
+153	Timothy Tucker	49	Female	Turkey	Turkish	French (Fluent)	75.0%
+154	Theresa Estrada	60	Female	China	Mandarin	German (Intermediate)	50.0%
+155	Cindy Davis	56	Female	Nigeria	Yoruba	"Japanese (Beginner), Russian (Fluent), Portuguese (Intermediate)"	50.0%
+156	Stacy Chan	68	Female	South Korea	Korean	English (Fluent)	75.0%
+157	Jennifer Torres	38	Other	Brazil	Portuguese	German (Beginner)	25.0%
+158	Jeffery Knight	60	Other	South Korea	Korean	Italian (Native)	100.0%
+159	Taylor Perry	40	Other	Italy	Italian	"German (Intermediate), Spanish (Fluent), Portuguese (Beginner)"	50.0%
+160	Raymond Navarro	40	Male	Mexico	Spanish	Vietnamese (Intermediate)	50.0%
+161	Jeremy Parks	59	Female	Japan	Japanese	"Arabic (Beginner), English (Beginner), German (Intermediate)"	33.33%
+162	Thomas Rivers	26	Male	France	French	Portuguese (Native)	100.0%
+163	Angela Jones	59	Female	Japan	Japanese	"Turkish (Fluent), Portuguese (Intermediate)"	62.5%
+164	Allen Bailey	66	Male	South Korea	Korean	"Japanese (Native), English (Fluent), Arabic (Native)"	91.67%
+165	William Fuentes	28	Male	Egypt	Arabic	Japanese (Native)	100.0%
+166	Steven Clark	23	Female	Mexico	Spanish	Yoruba (Intermediate)	50.0%
+167	Michael Mays	69	Male	India	Hindi	German (Beginner)	25.0%
+168	Adam Wood	57	Other	South Korea	Korean	"French (Beginner), German (Native), Vietnamese (Beginner)"	50.0%
+169	Larry Villarreal	69	Other	Japan	Japanese	"Turkish (Beginner), Yoruba (Fluent), Hindi (Fluent)"	58.33%
+170	Brian Cooper	23	Female	South Korea	Korean	"Arabic (Beginner), Mandarin (Native)"	62.5%
+171	Beverly Levy	39	Female	China	Mandarin	"Turkish (Fluent), Japanese (Intermediate), German (Native)"	75.0%
+172	John Carter	53	Female	Nigeria	Yoruba	"Italian (Fluent), Arabic (Fluent)"	75.0%
+173	Tina Fields	64	Male	USA	English	"French (Beginner), Russian (Native), Spanish (Native)"	75.0%
+174	Willie Garcia	65	Male	Brazil	Portuguese	"Russian (Beginner), Arabic (Fluent)"	50.0%
+175	Brooke Hurst	42	Female	China	Mandarin	"Yoruba (Fluent), French (Intermediate), Vietnamese (Fluent)"	66.67%
+176	Regina Stewart	69	Male	India	Hindi	French (Fluent)	75.0%
+177	Paul Carter	39	Other	Egypt	Arabic	"Vietnamese (Fluent), French (Intermediate), Mandarin (Intermediate)"	58.33%
+178	Angel Anderson	54	Male	Turkey	Turkish	Yoruba (Beginner)	25.0%
+179	Blake Jones	49	Female	Russia	Russian	"Spanish (Fluent), Mandarin (Fluent)"	75.0%
+180	Juan Yang	46	Male	Egypt	Arabic	"German (Intermediate), Korean (Beginner)"	37.5%
+181	Jay Walsh	60	Other	Russia	Russian	Vietnamese (Native)	100.0%
+182	Jeremy Wood	53	Female	Nigeria	Yoruba	"Vietnamese (Intermediate), French (Beginner)"	37.5%
+183	Amy Ortiz	22	Other	China	Mandarin	Russian (Intermediate)	50.0%
+184	Nicholas Flores	50	Other	Italy	Italian	Yoruba (Beginner)	25.0%
+185	Edward Ruiz	18	Female	Nigeria	Yoruba	"French (Fluent), Italian (Fluent), Hindi (Fluent)"	75.0%
+186	Rebecca Hill	63	Female	Nigeria	Yoruba	"Spanish (Fluent), English (Fluent), Russian (Intermediate)"	66.67%
+187	Melissa Flynn	66	Other	Nigeria	Yoruba	English (Beginner)	25.0%
+188	James Saunders	20	Other	Germany	German	"Vietnamese (Native), Hindi (Fluent), Yoruba (Native)"	91.67%
+189	David Chavez	41	Other	Vietnam	Vietnamese	"Yoruba (Intermediate), French (Beginner)"	37.5%
+190	Brenda Ford	54	Male	Germany	German	"Spanish (Native), Mandarin (Beginner), Italian (Intermediate)"	58.33%
+191	Karen Harris	22	Other	China	Mandarin	Hindi (Native)	100.0%
+192	Michael Montgomery	50	Other	Japan	Japanese	Vietnamese (Native)	100.0%
+193	Edwin Mack	22	Female	France	French	Turkish (Native)	100.0%
+194	Kimberly Moore	57	Female	Italy	Italian	"Spanish (Native), English (Fluent)"	87.5%
+195	Kaitlin Gregory	30	Female	France	French	"Arabic (Beginner), Japanese (Fluent)"	50.0%
+196	Crystal Gill	55	Female	Brazil	Portuguese	"Hindi (Native), Mandarin (Beginner)"	62.5%
+197	William Martinez	43	Female	Russia	Russian	"Turkish (Fluent), Yoruba (Fluent), Vietnamese (Beginner)"	58.33%
+198	Amanda Scott	22	Male	Vietnam	Vietnamese	"Turkish (Fluent), Arabic (Fluent), Korean (Beginner)"	58.33%
+199	Lauren Foster	20	Female	South Korea	Korean	Mandarin (Native)	100.0%
+200	David Campbell	26	Other	Vietnam	Vietnamese	Portuguese (Native)	100.0%
+201	Susan Larson	37	Other	China	Mandarin	"Yoruba (Intermediate), Turkish (Native)"	75.0%
+202	Ricky Torres	48	Other	USA	English	Turkish (Intermediate)	50.0%
+203	Joseph Wright	40	Other	Italy	Italian	"Hindi (Beginner), Vietnamese (Native), Arabic (Intermediate)"	58.33%
+204	Carla Perry	70	Female	Turkey	Turkish	Korean (Intermediate)	50.0%
+205	Joseph Berry	51	Female	India	Hindi	"Portuguese (Fluent), Mandarin (Fluent)"	75.0%
+206	Kim Jenkins	53	Male	Vietnam	Vietnamese	Hindi (Native)	100.0%
+207	Jennifer Osborne	30	Other	USA	English	"French (Beginner), Turkish (Fluent), Yoruba (Beginner)"	41.67%
+208	Ebony Watson	63	Female	Nigeria	Yoruba	"French (Native), German (Intermediate)"	75.0%
+209	Brooke Terry	18	Male	Vietnam	Vietnamese	"Turkish (Beginner), Japanese (Beginner), Russian (Fluent)"	41.67%
+210	Kevin Taylor	42	Other	France	French	"Yoruba (Native), Portuguese (Fluent)"	87.5%
+211	Heather Kennedy	19	Female	Russia	Russian	"Korean (Beginner), Turkish (Intermediate), Portuguese (Intermediate)"	41.67%
+212	John Neal	21	Other	Vietnam	Vietnamese	"German (Beginner), Arabic (Fluent), Italian (Native)"	66.67%
+213	Matthew Brown	40	Other	Nigeria	Yoruba	"Turkish (Native), Portuguese (Beginner), Korean (Native)"	75.0%
+214	Patrick Williams	29	Male	Vietnam	Vietnamese	"Hindi (Fluent), Spanish (Native), Yoruba (Native)"	91.67%
+215	Allison Ruiz	24	Male	Japan	Japanese	"German (Beginner), Italian (Fluent)"	50.0%
+216	Alexandra Rose	38	Female	USA	English	"Arabic (Native), Turkish (Beginner)"	62.5%
+217	Sean Parks	52	Female	Nigeria	Yoruba	"Vietnamese (Native), English (Beginner), Japanese (Beginner)"	50.0%
+218	Maureen Smith	39	Female	Nigeria	Yoruba	"Arabic (Beginner), Mandarin (Beginner)"	25.0%
+219	Marc Key	18	Female	France	French	"Arabic (Fluent), Turkish (Beginner)"	50.0%
+220	Melissa Acosta	28	Male	Russia	Russian	French (Intermediate)	50.0%
+221	Paul Roberts	57	Female	Nigeria	Yoruba	Mandarin (Intermediate)	50.0%
+222	Joel Rivera	32	Male	USA	English	"Yoruba (Native), Hindi (Beginner)"	62.5%
+223	Javier Prince	32	Male	Italy	Italian	"Portuguese (Intermediate), Turkish (Fluent)"	62.5%
+224	Jermaine Fletcher	54	Male	Vietnam	Vietnamese	"Japanese (Intermediate), Portuguese (Native)"	75.0%
+225	Beverly Lozano	19	Female	Germany	German	"Arabic (Intermediate), Mandarin (Intermediate), Japanese (Beginner)"	41.67%
+226	Richard Price	67	Male	Mexico	Spanish	Arabic (Beginner)	25.0%
+227	Jean Robinson	45	Other	Egypt	Arabic	"German (Native), Hindi (Beginner), English (Native)"	75.0%
+228	Todd Willis	52	Female	Vietnam	Vietnamese	"Portuguese (Intermediate), Mandarin (Fluent), German (Intermediate)"	58.33%
+229	James Young	24	Female	France	French	Italian (Fluent)	75.0%
+230	Cody Brown	43	Male	Vietnam	Vietnamese	"German (Native), Japanese (Intermediate)"	75.0%
+231	Carrie Bishop	35	Other	Italy	Italian	"Japanese (Beginner), Yoruba (Fluent)"	50.0%
+232	Michele Hunt	20	Other	Russia	Russian	"Arabic (Native), Yoruba (Intermediate), Hindi (Fluent)"	75.0%
+233	Shawn Gomez	63	Female	Russia	Russian	"Mandarin (Beginner), Korean (Intermediate)"	37.5%
+234	Mark Black	63	Female	USA	English	"Mandarin (Native), Italian (Beginner)"	62.5%
+235	Tina Spears	44	Male	Egypt	Arabic	"German (Fluent), English (Native)"	87.5%
+236	Lauren Henry	40	Male	Egypt	Arabic	"Hindi (Beginner), French (Fluent)"	50.0%
+237	Cindy Adams	34	Male	Italy	Italian	"Hindi (Beginner), Russian (Intermediate)"	37.5%
+238	Christopher Smith	20	Other	South Korea	Korean	"Italian (Beginner), Portuguese (Fluent), Japanese (Native)"	66.67%
+239	Brenda Buchanan	26	Male	Brazil	Portuguese	"Japanese (Intermediate), Vietnamese (Fluent)"	62.5%
+240	Tracy Sanders	22	Other	France	French	"Portuguese (Native), Turkish (Native), Arabic (Native)"	100.0%
+241	Jody Morgan	31	Male	South Korea	Korean	"Mandarin (Intermediate), Turkish (Intermediate), Japanese (Intermediate)"	50.0%
+242	Stephen Norton	70	Female	India	Hindi	Russian (Intermediate)	50.0%
+243	Jesus Nguyen	67	Female	Russia	Russian	"Vietnamese (Fluent), Spanish (Beginner), English (Native)"	66.67%
+244	Andrew Wood	52	Other	Vietnam	Vietnamese	Portuguese (Fluent)	75.0%
+245	Joseph Lopez	42	Female	Germany	German	"Vietnamese (Fluent), English (Intermediate)"	62.5%
+246	Michael Fitzgerald	70	Male	Brazil	Portuguese	"French (Native), Spanish (Native)"	100.0%
+247	Scott Scott	55	Other	Italy	Italian	Turkish (Beginner)	25.0%
+248	Micheal Williams	62	Other	Italy	Italian	"French (Intermediate), Korean (Beginner), Vietnamese (Fluent)"	50.0%
+249	Andrea Murray	68	Male	Egypt	Arabic	Japanese (Beginner)	25.0%
+250	Amber Lamb	38	Male	USA	English	Portuguese (Native)	100.0%
+251	Julia Wilson	69	Male	Italy	Italian	"Portuguese (Fluent), Yoruba (Native)"	87.5%
+252	Brett Cannon	67	Other	Vietnam	Vietnamese	Russian (Beginner)	25.0%
+253	Thomas Alexander	51	Female	Vietnam	Vietnamese	Arabic (Intermediate)	50.0%
+254	Jeffery Fischer	55	Male	Egypt	Arabic	"Spanish (Native), Russian (Fluent), Vietnamese (Beginner)"	66.67%
+255	Amanda White	69	Male	Vietnam	Vietnamese	"Turkish (Beginner), Japanese (Native)"	62.5%
+256	Carl Pitts DVM	57	Male	Italy	Italian	"Japanese (Native), Portuguese (Beginner), German (Native)"	75.0%
+257	Jeffrey Hawkins	29	Male	China	Mandarin	"Japanese (Native), Russian (Native), Yoruba (Fluent)"	91.67%
+258	Joshua Harris	22	Male	Mexico	Spanish	"Turkish (Intermediate), Portuguese (Native)"	75.0%
+259	Jeremy Jacobs	48	Male	Japan	Japanese	"Yoruba (Beginner), Italian (Fluent)"	50.0%
+260	Debbie Hall	41	Male	Turkey	Turkish	Portuguese (Intermediate)	50.0%
+261	Richard Garcia	20	Female	Germany	German	"English (Intermediate), Arabic (Intermediate), Mandarin (Beginner)"	41.67%
+262	Danielle Mitchell	67	Female	Mexico	Spanish	"Hindi (Beginner), Yoruba (Native), Russian (Fluent)"	66.67%
+263	Mary Harmon	33	Male	Turkey	Turkish	Mandarin (Beginner)	25.0%
+264	Shannon Martinez	40	Other	Japan	Japanese	"Spanish (Beginner), German (Native)"	62.5%
+265	Bailey Mclaughlin	32	Other	Vietnam	Vietnamese	"Korean (Fluent), English (Native)"	87.5%
+266	Michael Warner	36	Male	Russia	Russian	"English (Intermediate), Hindi (Intermediate)"	50.0%
+267	Connie Decker	42	Other	South Korea	Korean	"Mandarin (Fluent), Hindi (Fluent)"	75.0%
+268	Joseph Leonard	50	Female	Germany	German	Japanese (Fluent)	75.0%
+269	Mark Mitchell	40	Female	India	Hindi	"Mandarin (Fluent), Portuguese (Native), Yoruba (Fluent)"	83.33%
+270	Robert Tran	27	Female	Nigeria	Yoruba	"Spanish (Fluent), Korean (Beginner), Japanese (Native)"	66.67%
+271	Kevin Johnson	39	Female	Vietnam	Vietnamese	Mandarin (Intermediate)	50.0%
+272	James Daugherty	42	Female	India	Hindi	Yoruba (Native)	100.0%
+273	Angela Hubbard	50	Female	Mexico	Spanish	"Yoruba (Intermediate), English (Native)"	75.0%
+274	Patricia Hudson	23	Female	Japan	Japanese	Portuguese (Beginner)	25.0%
+275	Cindy Oconnor	44	Male	Russia	Russian	"German (Beginner), Italian (Beginner)"	25.0%
+276	Olivia Gomez	29	Male	China	Mandarin	Vietnamese (Fluent)	75.0%
+277	Lori Lester	52	Male	Germany	German	"Italian (Beginner), Arabic (Beginner), Spanish (Native)"	50.0%
+278	Roy Fox	23	Other	Germany	German	English (Intermediate)	50.0%
+279	Jesus Smith	51	Other	Japan	Japanese	English (Beginner)	25.0%
+280	Matthew Guerrero	32	Female	Turkey	Turkish	"Korean (Intermediate), French (Intermediate)"	50.0%
+281	Troy Castillo MD	42	Male	Brazil	Portuguese	"Hindi (Native), Arabic (Intermediate)"	75.0%
+282	Deanna Munoz	70	Female	Egypt	Arabic	"Korean (Fluent), Yoruba (Fluent)"	75.0%
+283	Samantha Floyd	24	Other	Italy	Italian	"Mandarin (Beginner), Turkish (Fluent)"	50.0%
+284	Anthony Johnson	42	Male	France	French	"Arabic (Intermediate), Vietnamese (Intermediate)"	50.0%
+285	Tonya Cooper	25	Other	Egypt	Arabic	"Italian (Beginner), Spanish (Beginner), Japanese (Native)"	50.0%
+286	Nicholas Barrett	26	Female	Vietnam	Vietnamese	"Japanese (Native), Turkish (Fluent)"	87.5%
+287	Michael Torres	47	Male	China	Mandarin	"Korean (Fluent), French (Intermediate)"	62.5%
+288	Joshua Oconnor	64	Male	Russia	Russian	"Hindi (Beginner), Italian (Native)"	62.5%
+289	Alex Burton	45	Male	Mexico	Spanish	"Hindi (Native), English (Intermediate)"	75.0%
+290	Andrew Perez	36	Female	China	Mandarin	"Japanese (Intermediate), Turkish (Native)"	75.0%
+291	Andrea Brown	37	Other	Italy	Italian	"Yoruba (Beginner), Turkish (Intermediate)"	37.5%
+292	Jenny Stafford	57	Male	Italy	Italian	"Korean (Fluent), Arabic (Beginner), Turkish (Fluent)"	58.33%
+293	Jeffrey Howard	49	Male	Nigeria	Yoruba	"Italian (Intermediate), Mandarin (Native)"	75.0%
+294	Gary Hatfield	64	Female	Germany	German	"Arabic (Fluent), Hindi (Intermediate)"	62.5%
+295	Janet Ortiz	60	Other	Germany	German	"French (Native), Vietnamese (Intermediate), Yoruba (Native)"	83.33%
+296	Joseph Fitzgerald	20	Male	Vietnam	Vietnamese	French (Native)	100.0%
+297	Julie Williams	21	Male	Japan	Japanese	"English (Intermediate), Portuguese (Beginner), French (Beginner)"	33.33%
+298	Jennifer Myers	66	Other	India	Hindi	"English (Intermediate), Yoruba (Beginner)"	37.5%
+299	Charles Melton	28	Female	Brazil	Portuguese	"Mandarin (Fluent), Spanish (Native), English (Intermediate)"	75.0%
+300	Morgan Hernandez	60	Female	Mexico	Spanish	"Vietnamese (Native), Russian (Native)"	100.0%
+301	Ryan Hoover	66	Male	Turkey	Turkish	"Korean (Intermediate), German (Beginner)"	37.5%
+302	Alex Drake	63	Male	Vietnam	Vietnamese	"Japanese (Intermediate), Mandarin (Fluent)"	62.5%
+303	Richard Sutton	52	Male	USA	English	"German (Native), Korean (Native)"	100.0%
+304	Blake Pennington	51	Other	Italy	Italian	Mandarin (Intermediate)	50.0%
+305	Lisa Ellis	56	Other	Vietnam	Vietnamese	"Spanish (Beginner), Italian (Beginner)"	25.0%
+306	Lance King	57	Female	Japan	Japanese	German (Native)	100.0%
+307	Morgan Johnson	67	Male	China	Mandarin	Vietnamese (Beginner)	25.0%
+308	Amanda Davis	27	Female	Egypt	Arabic	Yoruba (Fluent)	75.0%
+309	Chris Young	35	Male	China	Mandarin	French (Native)	100.0%
+310	Nicolas Sullivan	70	Other	Brazil	Portuguese	"Vietnamese (Fluent), French (Intermediate)"	62.5%
+311	Johnathan Long	38	Other	China	Mandarin	Arabic (Intermediate)	50.0%
+312	Steven Pierce	42	Other	Egypt	Arabic	"Russian (Native), Turkish (Native), French (Fluent)"	91.67%
+313	Patricia Duncan	56	Other	Turkey	Turkish	Korean (Native)	100.0%
+314	Michael Bryant	19	Male	Vietnam	Vietnamese	Hindi (Intermediate)	50.0%
+315	Jennifer Crawford	42	Male	South Korea	Korean	"Spanish (Fluent), Arabic (Fluent)"	75.0%
+316	Patrick Johnson	39	Other	Russia	Russian	"Portuguese (Intermediate), Yoruba (Beginner)"	37.5%
+317	Lauren Parsons	70	Male	Mexico	Spanish	Turkish (Native)	100.0%
+318	Michael Clark	57	Other	Italy	Italian	"Portuguese (Fluent), Turkish (Beginner)"	50.0%
+319	Gina Good	51	Male	Brazil	Portuguese	Spanish (Beginner)	25.0%
+320	Christine Knight	53	Other	Turkey	Turkish	"German (Intermediate), Russian (Fluent), Arabic (Beginner)"	50.0%
+321	Warren Middleton	43	Male	India	Hindi	Mandarin (Intermediate)	50.0%
+322	Michelle Maldonado	53	Male	Egypt	Arabic	"Vietnamese (Intermediate), Russian (Fluent), Italian (Fluent)"	66.67%
+323	Thomas Lam	53	Other	India	Hindi	"English (Intermediate), Portuguese (Fluent)"	62.5%
+324	Paul Smith	37	Other	Nigeria	Yoruba	Korean (Fluent)	75.0%
+325	Krystal Farley	69	Male	Nigeria	Yoruba	"Arabic (Beginner), Korean (Fluent)"	50.0%
+326	Mario Morris	44	Other	Germany	German	"Portuguese (Fluent), Spanish (Native), French (Beginner)"	66.67%
+327	Lindsay Archer	29	Female	Mexico	Spanish	"Korean (Native), English (Fluent)"	87.5%
+328	Charles Williams	18	Other	India	Hindi	"Italian (Fluent), Yoruba (Beginner), Mandarin (Beginner)"	41.67%
+329	Timothy Fry	53	Other	Turkey	Turkish	"Korean (Fluent), Mandarin (Fluent)"	75.0%
+330	Dr. Robert Osborne	62	Other	China	Mandarin	Hindi (Intermediate)	50.0%
+331	Chelsea Dunn	35	Other	Germany	German	"Yoruba (Native), Arabic (Native)"	100.0%
+332	Travis Thompson	63	Male	India	Hindi	"Portuguese (Native), Vietnamese (Native)"	100.0%
+333	Matthew Moore	63	Female	Brazil	Portuguese	"Turkish (Beginner), French (Intermediate)"	37.5%
+334	Jonathan Hogan	37	Male	Brazil	Portuguese	German (Beginner)	25.0%
+335	Nicole Baker	18	Female	Turkey	Turkish	German (Native)	100.0%
+336	Jeffrey Ewing	36	Female	Mexico	Spanish	"Korean (Intermediate), French (Native)"	75.0%
+337	Theresa Medina	63	Other	Brazil	Portuguese	"Russian (Beginner), Vietnamese (Intermediate)"	37.5%
+338	Wanda Lee	32	Female	Russia	Russian	German (Intermediate)	50.0%
+339	Rebecca Kirk	52	Male	Nigeria	Yoruba	Turkish (Fluent)	75.0%
+340	Brittney Guerrero	63	Male	Germany	German	English (Native)	100.0%
+341	Kristine Ward	69	Other	India	Hindi	"Turkish (Intermediate), French (Intermediate), Yoruba (Fluent)"	58.33%
+342	Kristina Jenkins	68	Male	South Korea	Korean	Vietnamese (Native)	100.0%
+343	Regina Perez	42	Other	USA	English	"Turkish (Native), Italian (Intermediate)"	75.0%
+344	Joseph Pugh	70	Male	Mexico	Spanish	"Korean (Beginner), Turkish (Beginner)"	25.0%
+345	Lynn Burton	40	Other	USA	English	"German (Native), Mandarin (Fluent), Italian (Native)"	91.67%
+346	Nicholas Wright PhD	65	Male	Brazil	Portuguese	"Vietnamese (Intermediate), Korean (Intermediate)"	50.0%
+347	Tony House	50	Male	Turkey	Turkish	Hindi (Beginner)	25.0%
+348	Jerome Manning	18	Other	South Korea	Korean	"Spanish (Intermediate), Russian (Fluent)"	62.5%
+349	Jordan Roman	50	Other	Germany	German	"Mandarin (Fluent), Italian (Fluent)"	75.0%
+350	Tina Martin	56	Female	South Korea	Korean	"German (Native), Arabic (Intermediate)"	75.0%
+351	Tanya Walters	70	Female	Russia	Russian	"Spanish (Intermediate), Japanese (Native)"	75.0%
+352	Dawn Macias	62	Other	Nigeria	Yoruba	"Portuguese (Native), English (Native), Mandarin (Native)"	100.0%
+353	Lisa Davis	31	Female	China	Mandarin	"English (Intermediate), Hindi (Intermediate), French (Native)"	66.67%
+354	Adam King	69	Other	Mexico	Spanish	French (Intermediate)	50.0%
+355	Jasmine Rowe	45	Female	Mexico	Spanish	"Hindi (Native), French (Fluent), Mandarin (Fluent)"	83.33%
+356	Jean Beard	62	Male	Japan	Japanese	"French (Intermediate), Arabic (Fluent), Vietnamese (Native)"	75.0%
+357	John Gallegos	34	Male	USA	English	French (Beginner)	25.0%
+358	Michael Murphy	60	Female	Turkey	Turkish	German (Intermediate)	50.0%
+359	John Boyd	56	Male	Egypt	Arabic	"Korean (Beginner), Mandarin (Beginner)"	25.0%
+360	Keith Reed	65	Female	Turkey	Turkish	"English (Native), Spanish (Native)"	100.0%
+361	Connor Rodriguez	62	Male	Turkey	Turkish	"Korean (Native), Yoruba (Beginner)"	62.5%
+362	Amanda Hebert	40	Other	Nigeria	Yoruba	Arabic (Fluent)	75.0%
+363	Theresa Edwards	49	Other	India	Hindi	"German (Intermediate), Portuguese (Intermediate)"	50.0%
+364	Victoria Hubbard	45	Other	Germany	German	"Yoruba (Intermediate), French (Beginner), Japanese (Beginner)"	33.33%
+365	Michael Larson	39	Other	USA	English	"Yoruba (Beginner), Hindi (Native), Turkish (Fluent)"	66.67%
+366	Eric Brown	38	Other	Vietnam	Vietnamese	"English (Beginner), French (Fluent), German (Intermediate)"	50.0%
+367	Cesar Castillo	59	Male	South Korea	Korean	"Russian (Fluent), English (Fluent)"	75.0%
+368	Pamela Williams	53	Other	Japan	Japanese	Korean (Fluent)	75.0%
+369	Amanda Peters	61	Other	Brazil	Portuguese	"Russian (Intermediate), Japanese (Native), Mandarin (Intermediate)"	66.67%
+370	Lynn Herring	29	Other	Turkey	Turkish	Yoruba (Beginner)	25.0%
+371	Kevin Miller	34	Female	Japan	Japanese	"Mandarin (Beginner), Vietnamese (Native)"	62.5%
+372	Robin Harris	50	Other	Nigeria	Yoruba	Mandarin (Fluent)	75.0%
+373	Michael King	56	Male	Nigeria	Yoruba	Arabic (Beginner)	25.0%
+374	Timothy Lutz	42	Female	Nigeria	Yoruba	Korean (Native)	100.0%
+375	Steven Tran	23	Other	Vietnam	Vietnamese	Portuguese (Intermediate)	50.0%
+376	Kevin May	19	Male	Brazil	Portuguese	"Yoruba (Beginner), Vietnamese (Intermediate), German (Native)"	58.33%
+377	Peter Meyers	43	Other	Egypt	Arabic	"German (Fluent), French (Native)"	87.5%
+378	Matthew Bryant	55	Male	USA	English	"Hindi (Intermediate), Japanese (Intermediate), Russian (Intermediate)"	50.0%
+379	Jimmy Moore	36	Female	Turkey	Turkish	Yoruba (Native)	100.0%
+380	Matthew Alvarez	58	Male	China	Mandarin	Italian (Beginner)	25.0%
+381	Kimberly Hoover	27	Male	Mexico	Spanish	Arabic (Fluent)	75.0%
+382	Robert Miller	39	Other	Turkey	Turkish	"German (Beginner), Korean (Fluent), Italian (Intermediate)"	50.0%
+383	Harold Hayes	31	Female	Nigeria	Yoruba	Korean (Fluent)	75.0%
+384	Kayla Archer	23	Female	Japan	Japanese	"Mandarin (Native), Russian (Beginner)"	62.5%
+385	Barbara Stewart	51	Male	Japan	Japanese	"Hindi (Native), Italian (Native)"	100.0%
+386	Nicholas Smith	50	Female	Vietnam	Vietnamese	Turkish (Native)	100.0%
+387	Cheryl Gutierrez	20	Female	Germany	German	Turkish (Intermediate)	50.0%
+388	Eric Price	60	Other	Italy	Italian	"Korean (Fluent), Mandarin (Fluent), English (Fluent)"	75.0%
+389	Randall Dawson	32	Other	Japan	Japanese	"Yoruba (Native), Portuguese (Fluent)"	87.5%
+390	Russell Jones	54	Male	USA	English	"Italian (Fluent), Vietnamese (Beginner), Portuguese (Intermediate)"	50.0%
+391	Henry Winters	67	Other	Japan	Japanese	Portuguese (Native)	100.0%
+392	Megan Hart	20	Female	India	Hindi	"Arabic (Beginner), Russian (Beginner), Vietnamese (Fluent)"	41.67%
+393	Jennifer Johnson	18	Other	Germany	German	"Portuguese (Native), Russian (Native)"	100.0%
+394	Cheryl Hughes	65	Other	Nigeria	Yoruba	Mandarin (Native)	100.0%
+395	Caleb Bell	66	Other	Vietnam	Vietnamese	"Yoruba (Intermediate), Hindi (Beginner)"	37.5%
+396	Luis Valdez	19	Other	Japan	Japanese	"Mandarin (Fluent), Turkish (Native), Italian (Intermediate)"	75.0%
+397	Jesus Spencer	45	Other	Japan	Japanese	"Yoruba (Native), Mandarin (Fluent), Turkish (Fluent)"	83.33%
+398	Kathleen Miller	42	Female	Nigeria	Yoruba	"Turkish (Native), Russian (Intermediate), Italian (Fluent)"	75.0%
+399	Scott Gibbs	52	Other	India	Hindi	Spanish (Intermediate)	50.0%
+400	Deborah Wong	38	Male	Turkey	Turkish	"Russian (Fluent), Spanish (Intermediate)"	62.5%
+401	Ronald Cook	48	Male	Germany	German	"French (Beginner), Turkish (Native)"	62.5%
+402	Kaitlin Johnson	56	Male	South Korea	Korean	Yoruba (Fluent)	75.0%
+403	Lori Mitchell	31	Female	South Korea	Korean	French (Native)	100.0%
+404	James Moore	38	Other	Brazil	Portuguese	"French (Fluent), German (Native)"	87.5%
+405	Bridget Thompson	56	Male	USA	English	German (Intermediate)	50.0%
+406	Margaret Sanchez	70	Female	Turkey	Turkish	"Russian (Fluent), Korean (Native), Portuguese (Native)"	91.67%
+407	Lori Dougherty	21	Female	Turkey	Turkish	"Vietnamese (Native), English (Beginner), Hindi (Beginner)"	50.0%
+408	Dr. Michael Williams	53	Female	Germany	German	"Yoruba (Native), Vietnamese (Fluent)"	87.5%
+409	Douglas Jackson	68	Other	Turkey	Turkish	"Italian (Beginner), Spanish (Beginner)"	25.0%
+410	Darrell Johns	19	Male	France	French	"Arabic (Fluent), Mandarin (Beginner), Yoruba (Intermediate)"	50.0%
+411	Shawn Taylor	23	Other	Nigeria	Yoruba	English (Fluent)	75.0%
+412	Alexis Conrad	36	Male	Turkey	Turkish	"Vietnamese (Intermediate), German (Fluent)"	62.5%
+413	James Solis	26	Male	Vietnam	Vietnamese	French (Intermediate)	50.0%
+414	Mrs. Samantha Hicks MD	68	Female	Vietnam	Vietnamese	Spanish (Native)	100.0%
+415	Ashley Carr	29	Male	Germany	German	"Yoruba (Beginner), Portuguese (Intermediate), Spanish (Native)"	58.33%
+416	Megan James	23	Other	Turkey	Turkish	"Arabic (Native), Italian (Intermediate), French (Fluent)"	75.0%
+417	Jeffrey Mcintyre	70	Male	South Korea	Korean	"English (Intermediate), Vietnamese (Beginner), Portuguese (Intermediate)"	41.67%
+418	David Taylor	52	Male	South Korea	Korean	"Mandarin (Intermediate), Arabic (Intermediate), Japanese (Native)"	66.67%
+419	Kim Jones	38	Other	Mexico	Spanish	"German (Intermediate), Mandarin (Native)"	75.0%
+420	Matthew Church	24	Female	Vietnam	Vietnamese	"German (Fluent), Yoruba (Intermediate)"	62.5%
+421	Jeffrey Ruiz	36	Other	Japan	Japanese	"Portuguese (Fluent), French (Intermediate)"	62.5%
+422	James Brewer	25	Other	Brazil	Portuguese	Turkish (Native)	100.0%
+423	Kevin Houston	34	Other	Vietnam	Vietnamese	"Korean (Native), Russian (Intermediate), Turkish (Native)"	83.33%
+424	Dr. Jacqueline Johnson DDS	65	Male	Mexico	Spanish	Hindi (Intermediate)	50.0%
+425	David Williams	42	Other	China	Mandarin	"Portuguese (Beginner), Italian (Fluent)"	50.0%
+426	Robert Maynard	37	Other	South Korea	Korean	"French (Intermediate), German (Beginner)"	37.5%
+427	Shawn Williams	43	Male	Japan	Japanese	"Hindi (Intermediate), Yoruba (Native), Italian (Intermediate)"	66.67%
+428	Alyssa Fisher	30	Male	France	French	"Italian (Native), Korean (Intermediate), Russian (Beginner)"	58.33%
+429	Jenna Middleton	44	Male	India	Hindi	French (Native)	100.0%
+430	Lindsey Martin	30	Male	Vietnam	Vietnamese	"German (Intermediate), Russian (Native), English (Beginner)"	58.33%
+431	Jason Lawrence	53	Other	Mexico	Spanish	Yoruba (Intermediate)	50.0%
+432	Diane Gordon DVM	58	Other	Mexico	Spanish	"Yoruba (Native), Japanese (Fluent), English (Native)"	91.67%
+433	Mark Miranda	67	Male	Egypt	Arabic	Italian (Fluent)	75.0%
+434	Nicole Gonzalez	27	Male	South Korea	Korean	"Arabic (Intermediate), Spanish (Intermediate), Russian (Beginner)"	41.67%
+435	Cassandra Silva	43	Female	Japan	Japanese	"Korean (Fluent), Yoruba (Fluent)"	75.0%
+436	Mark Carter	41	Other	South Korea	Korean	"Mandarin (Beginner), Vietnamese (Beginner), Portuguese (Native)"	50.0%
+437	Michael Adams	49	Female	Egypt	Arabic	"Turkish (Native), Spanish (Intermediate), German (Beginner)"	58.33%
+438	Hannah Anderson	38	Other	Germany	German	"English (Intermediate), Mandarin (Beginner), Italian (Fluent)"	50.0%
+439	Carol Jordan	30	Female	South Korea	Korean	Italian (Intermediate)	50.0%
+440	Billy Page	27	Female	Mexico	Spanish	"Japanese (Native), Mandarin (Native), Vietnamese (Beginner)"	75.0%
+441	Paula Gardner	56	Female	France	French	"Mandarin (Intermediate), English (Intermediate)"	50.0%
+442	Caroline Clark	54	Female	Russia	Russian	Yoruba (Intermediate)	50.0%
+443	Joseph Fuentes	29	Male	China	Mandarin	"German (Intermediate), Korean (Native), Turkish (Native)"	83.33%
+444	Stephen Fitzgerald	24	Female	China	Mandarin	"French (Fluent), Korean (Beginner)"	50.0%
+445	Frances Wilson	65	Other	India	Hindi	"Arabic (Beginner), English (Native), Mandarin (Fluent)"	66.67%
+446	Sarah Ortiz	61	Other	China	Mandarin	"Russian (Intermediate), Hindi (Intermediate), Italian (Beginner)"	41.67%
+447	Stephanie Peterson	27	Other	South Korea	Korean	"German (Intermediate), Russian (Beginner), Mandarin (Intermediate)"	41.67%
+448	Evelyn Neal	24	Female	Egypt	Arabic	"Hindi (Intermediate), German (Intermediate), Mandarin (Beginner)"	41.67%
+449	Victoria Manning	20	Other	France	French	"Yoruba (Fluent), Japanese (Native)"	87.5%
+450	Spencer Riddle	21	Female	France	French	English (Native)	100.0%
+451	Travis Hunt	36	Other	Russia	Russian	"Mandarin (Native), Italian (Beginner)"	62.5%
+452	Whitney Hess	55	Other	India	Hindi	Vietnamese (Beginner)	25.0%
+453	Brittany Smith	46	Female	Germany	German	English (Intermediate)	50.0%
+454	Michele Walls	44	Other	Turkey	Turkish	Hindi (Fluent)	75.0%
+455	Melissa Holland	24	Female	Mexico	Spanish	"Turkish (Native), Vietnamese (Intermediate), Italian (Fluent)"	75.0%
+456	Matthew Holden	41	Male	Italy	Italian	"Spanish (Fluent), German (Fluent), Mandarin (Beginner)"	58.33%
+457	Michael Mendez	21	Other	Japan	Japanese	Italian (Native)	100.0%
+458	Ricky Smith	57	Other	Nigeria	Yoruba	"Russian (Native), French (Native)"	100.0%
+459	Ruth Castillo	63	Female	South Korea	Korean	"Spanish (Fluent), German (Beginner), Arabic (Native)"	66.67%
+460	Jesse Silva	56	Female	India	Hindi	"Japanese (Native), Spanish (Intermediate)"	75.0%
+461	John Rowe	31	Female	China	Mandarin	Vietnamese (Beginner)	25.0%
+462	Kristina Wilcox	38	Other	China	Mandarin	"Vietnamese (Beginner), Korean (Native), Yoruba (Fluent)"	66.67%
+463	Scott Mccall	67	Male	South Korea	Korean	Italian (Native)	100.0%
+464	Ronald Atkinson	66	Other	Italy	Italian	German (Fluent)	75.0%
+465	Kelly Franklin	45	Female	Vietnam	Vietnamese	"Japanese (Fluent), Turkish (Native)"	87.5%
+466	Michael Sullivan	18	Other	Russia	Russian	"Korean (Native), English (Intermediate), French (Beginner)"	58.33%
+467	Chad Price	44	Male	Turkey	Turkish	"Japanese (Intermediate), Mandarin (Native), Russian (Beginner)"	58.33%
+468	Krystal Hendricks	51	Male	Italy	Italian	"Yoruba (Fluent), Turkish (Fluent)"	75.0%
+469	Angie Chapman	39	Female	Mexico	Spanish	"Mandarin (Intermediate), Italian (Beginner), Arabic (Beginner)"	33.33%
+470	Jonathon Gibson	60	Other	Japan	Japanese	German (Fluent)	75.0%
+471	Brian Whitaker	18	Male	Japan	Japanese	"French (Native), Turkish (Native)"	100.0%
+472	Matthew Kennedy Jr.	37	Other	USA	English	Portuguese (Intermediate)	50.0%
+473	Caitlin Phelps	33	Male	France	French	"Hindi (Beginner), Spanish (Fluent), Korean (Beginner)"	41.67%
+474	Briana Jones	28	Female	Italy	Italian	Russian (Intermediate)	50.0%
+475	James Benton	25	Male	China	Mandarin	"Turkish (Beginner), Japanese (Native), Vietnamese (Beginner)"	50.0%
+476	Deborah Hall	31	Female	China	Mandarin	Yoruba (Native)	100.0%
+477	Charles Cain	45	Other	South Korea	Korean	"Spanish (Fluent), Russian (Intermediate)"	62.5%
+478	Sean Morrow	56	Male	Nigeria	Yoruba	French (Native)	100.0%
+479	Justin Smith	65	Other	China	Mandarin	"Russian (Native), Portuguese (Native)"	100.0%
+480	Kristin Campos	32	Female	Vietnam	Vietnamese	"Portuguese (Intermediate), Spanish (Intermediate)"	50.0%
+481	Michael Velazquez MD	24	Female	Russia	Russian	"Arabic (Fluent), Portuguese (Intermediate), Japanese (Beginner)"	50.0%
+482	Grace Davis	20	Female	South Korea	Korean	"English (Native), German (Fluent), Spanish (Intermediate)"	75.0%
+483	Darrell Roberson	30	Other	Brazil	Portuguese	"Hindi (Fluent), Russian (Beginner)"	50.0%
+484	Danny Simpson	60	Male	India	Hindi	Japanese (Intermediate)	50.0%
+485	Katrina Peterson	23	Female	South Korea	Korean	"Vietnamese (Native), Mandarin (Fluent), French (Intermediate)"	75.0%
+486	Kenneth Perez	57	Female	USA	English	"Japanese (Fluent), Mandarin (Beginner), Vietnamese (Intermediate)"	50.0%
+487	James Chang	20	Male	Turkey	Turkish	"Russian (Fluent), Vietnamese (Beginner)"	50.0%
+488	Timothy Newton	36	Female	Russia	Russian	"Mandarin (Native), Italian (Intermediate)"	75.0%
+489	Dr. Ian Cruz	43	Other	Brazil	Portuguese	"Arabic (Fluent), Mandarin (Native), Japanese (Intermediate)"	75.0%
+490	Richard Morales	53	Female	Turkey	Turkish	"Japanese (Fluent), Vietnamese (Native)"	87.5%
+491	Kaitlin Douglas	20	Female	China	Mandarin	"English (Intermediate), French (Fluent)"	62.5%
+492	Thomas Reynolds	32	Female	Japan	Japanese	"Spanish (Intermediate), Korean (Fluent)"	62.5%
+493	James Miranda	29	Other	USA	English	"Portuguese (Native), Turkish (Beginner), Vietnamese (Beginner)"	50.0%
+494	Sharon Castillo MD	18	Other	USA	English	Yoruba (Intermediate)	50.0%
+495	Gregory Sanchez	46	Female	Mexico	Spanish	"Japanese (Intermediate), Mandarin (Fluent), English (Native)"	75.0%
+496	Tyler Porter	28	Male	Mexico	Spanish	Turkish (Native)	100.0%
+497	James Price	64	Female	Italy	Italian	Russian (Fluent)	75.0%
+498	Veronica Bray	66	Female	China	Mandarin	"Arabic (Fluent), French (Fluent)"	75.0%
+499	Lisa Lowe	32	Female	France	French	Hindi (Fluent)	75.0%
+500	Katelyn Edwards	45	Male	Italy	Italian	"French (Native), German (Beginner)"	62.5%
+501	Anna Stewart	36	Female	USA	English	Portuguese (Beginner)	25.0%
+502	Crystal Ponce	27	Other	USA	English	Arabic (Beginner)	25.0%
+503	Ms. Amanda Davis	55	Male	Turkey	Turkish	Russian (Beginner)	25.0%
+504	Gabriel Wilson	30	Male	USA	English	"Russian (Beginner), Turkish (Beginner), Korean (Beginner)"	25.0%
+505	Helen Hall	63	Female	Vietnam	Vietnamese	"Italian (Beginner), Korean (Native)"	62.5%
+506	James Smith	50	Male	Mexico	Spanish	"Turkish (Intermediate), French (Fluent), Korean (Native)"	75.0%
+507	Larry Donovan	41	Other	France	French	"Russian (Intermediate), Arabic (Beginner), Vietnamese (Native)"	58.33%
+508	Patrick Gonzalez	33	Other	Vietnam	Vietnamese	"Russian (Native), Mandarin (Fluent)"	87.5%
+509	Steven Mathis	67	Female	South Korea	Korean	German (Native)	100.0%
+510	Christopher Young	18	Male	South Korea	Korean	"Italian (Fluent), French (Beginner)"	50.0%
+511	Janet Aguirre	29	Male	Germany	German	"Vietnamese (Intermediate), Mandarin (Intermediate)"	50.0%
+512	James Cannon	34	Male	Turkey	Turkish	"Vietnamese (Intermediate), Russian (Fluent)"	62.5%
+513	Debra Aguilar	70	Other	Turkey	Turkish	German (Fluent)	75.0%
+514	Samantha Byrd	50	Female	Russia	Russian	Mandarin (Beginner)	25.0%
+515	Linda Davis	69	Female	Germany	German	"Portuguese (Beginner), Italian (Intermediate), Spanish (Fluent)"	50.0%
+516	Michelle Nelson	53	Female	Nigeria	Yoruba	Spanish (Native)	100.0%
+517	Lisa Hopkins	67	Male	USA	English	"Portuguese (Beginner), German (Native), Italian (Fluent)"	66.67%
+518	Kenneth Keller	39	Other	Vietnam	Vietnamese	"Arabic (Fluent), Mandarin (Beginner)"	50.0%
+519	Jordan Martinez	32	Other	Brazil	Portuguese	Hindi (Fluent)	75.0%
+520	Thomas Martinez	30	Other	Vietnam	Vietnamese	"Turkish (Beginner), Spanish (Intermediate), Portuguese (Native)"	58.33%
+521	Julie Gibson	19	Other	Egypt	Arabic	"Turkish (Beginner), Japanese (Fluent), Portuguese (Beginner)"	41.67%
+522	Jason Bennett	20	Other	Germany	German	"Turkish (Intermediate), Japanese (Intermediate)"	50.0%
+523	Gabriela Short	55	Other	Mexico	Spanish	Russian (Native)	100.0%
+524	David Castillo	41	Male	Russia	Russian	"Portuguese (Beginner), Korean (Native)"	62.5%
+525	Allison Cummings	66	Other	Japan	Japanese	Vietnamese (Native)	100.0%
+526	Jared Duran	28	Male	USA	English	"Hindi (Native), German (Native), French (Native)"	100.0%
+527	Jeffrey King	22	Other	Italy	Italian	"Japanese (Intermediate), Russian (Fluent)"	62.5%
+528	Darren Campbell	37	Other	Vietnam	Vietnamese	French (Beginner)	25.0%
+529	Linda Noble	29	Female	Germany	German	Turkish (Fluent)	75.0%
+530	Kelly Miller	25	Female	China	Mandarin	"Yoruba (Native), Italian (Native), Portuguese (Native)"	100.0%
+531	Joseph Nunez	56	Other	Egypt	Arabic	"Portuguese (Fluent), English (Native)"	87.5%
+532	Brittney Johnson	35	Other	USA	English	"Yoruba (Intermediate), Russian (Native)"	75.0%
+533	Renee Cannon	53	Male	Italy	Italian	"Vietnamese (Beginner), Arabic (Native)"	62.5%
+534	Michael Jenkins	49	Other	Nigeria	Yoruba	"Vietnamese (Beginner), Hindi (Beginner)"	25.0%
+535	James Cobb	53	Other	Nigeria	Yoruba	"Russian (Native), Portuguese (Native)"	100.0%
+536	Tonya Barron	37	Female	South Korea	Korean	"Russian (Beginner), Yoruba (Fluent), German (Intermediate)"	50.0%
+537	Kelly Ramsey	68	Other	France	French	Korean (Intermediate)	50.0%
+538	Thomas Marquez	68	Female	Japan	Japanese	"Turkish (Native), Russian (Intermediate), Portuguese (Native)"	83.33%
+539	Jessica Schultz	41	Other	Japan	Japanese	"Vietnamese (Intermediate), French (Beginner)"	37.5%
+540	Stephanie Duncan	26	Other	China	Mandarin	"English (Beginner), Russian (Fluent)"	50.0%
+541	Jeremy Sanchez	30	Male	Germany	German	Korean (Fluent)	75.0%
+542	Sarah Peters	58	Female	USA	English	"Japanese (Beginner), Korean (Intermediate)"	37.5%
+543	Andrew Anderson	23	Female	Egypt	Arabic	Yoruba (Fluent)	75.0%
+544	Michael Walker	20	Female	Russia	Russian	Japanese (Fluent)	75.0%
+545	Shannon Todd	37	Other	France	French	Yoruba (Beginner)	25.0%
+546	Matthew Mcneil	58	Male	China	Mandarin	"Portuguese (Native), Turkish (Native), Arabic (Native)"	100.0%
+547	Gina Jennings	60	Female	France	French	"English (Native), Spanish (Native)"	100.0%
+548	Justin Kelly	58	Male	Vietnam	Vietnamese	"Turkish (Intermediate), Italian (Native)"	75.0%
+549	Jeffrey Alvarado	47	Female	China	Mandarin	Hindi (Intermediate)	50.0%
+550	Julie Thomas	33	Male	Russia	Russian	"Hindi (Native), English (Fluent)"	87.5%
+551	Nicole Finley	69	Male	Japan	Japanese	Vietnamese (Fluent)	75.0%
+552	John Fernandez	64	Female	Japan	Japanese	Korean (Native)	100.0%
+553	Michele Smith	28	Female	Germany	German	Mandarin (Fluent)	75.0%
+554	Scott Richards	42	Female	Vietnam	Vietnamese	"Yoruba (Beginner), Mandarin (Beginner)"	25.0%
+555	Jennifer Clark	60	Other	Nigeria	Yoruba	"Spanish (Beginner), Portuguese (Intermediate)"	37.5%
+556	Zachary Taylor	23	Other	China	Mandarin	"Turkish (Intermediate), English (Native), Russian (Intermediate)"	66.67%
+557	Katherine James	65	Male	Mexico	Spanish	"Vietnamese (Beginner), Korean (Native)"	62.5%
+558	Angela Cordova	21	Male	Brazil	Portuguese	"Russian (Intermediate), Mandarin (Intermediate)"	50.0%
+559	Adrian Barnes DDS	54	Other	Germany	German	"Korean (Beginner), Japanese (Fluent), Yoruba (Beginner)"	41.67%
+560	Patrick Saunders	70	Female	France	French	English (Fluent)	75.0%
+561	Walter Johnson	62	Female	Vietnam	Vietnamese	Russian (Native)	100.0%
+562	Kayla Hernandez	29	Male	Nigeria	Yoruba	"Mandarin (Native), Turkish (Fluent)"	87.5%
+563	Kevin Ramirez	39	Other	Turkey	Turkish	"Korean (Fluent), Spanish (Native), Mandarin (Beginner)"	66.67%
+564	Colleen Cruz	40	Male	Brazil	Portuguese	"Russian (Beginner), Hindi (Intermediate)"	37.5%
+565	Gina Holloway	26	Female	Japan	Japanese	German (Beginner)	25.0%
+566	Brandon Moore	25	Female	Brazil	Portuguese	Italian (Intermediate)	50.0%
+567	Kristy Brown	60	Female	Germany	German	Spanish (Fluent)	75.0%
+568	Karen Flores PhD	67	Female	Turkey	Turkish	"Yoruba (Native), Mandarin (Fluent)"	87.5%
+569	Jeffrey Beck	37	Female	USA	English	"Yoruba (Fluent), French (Intermediate), Turkish (Beginner)"	50.0%
+570	Pamela Mcclure	51	Other	Germany	German	Arabic (Native)	100.0%
+571	Jeffrey Johnson	56	Female	Mexico	Spanish	"Yoruba (Native), French (Native), Vietnamese (Fluent)"	91.67%
+572	James Cooper	69	Male	India	Hindi	"Japanese (Beginner), Turkish (Native)"	62.5%
+573	Robert Lopez	26	Male	USA	English	Russian (Beginner)	25.0%
+574	Kimberly Morgan	61	Male	USA	English	"Spanish (Intermediate), Yoruba (Beginner)"	37.5%
+575	Candice Simpson	68	Female	Nigeria	Yoruba	Vietnamese (Intermediate)	50.0%
+576	Scott Rivera	43	Other	Brazil	Portuguese	"French (Fluent), Yoruba (Native), Mandarin (Intermediate)"	75.0%
+577	Zachary Austin	44	Male	USA	English	"Mandarin (Beginner), German (Native), French (Beginner)"	50.0%
+578	Richard Jones	68	Female	Nigeria	Yoruba	Korean (Intermediate)	50.0%
+579	Kelly Callahan	51	Female	Nigeria	Yoruba	"Spanish (Native), Hindi (Fluent)"	87.5%
+580	Karina Meyer	68	Other	Japan	Japanese	"Hindi (Fluent), Spanish (Native)"	87.5%
+581	Hannah Grant	62	Male	Russia	Russian	"Mandarin (Native), Portuguese (Fluent)"	87.5%
+582	Whitney Steele	29	Female	India	Hindi	"Japanese (Native), Vietnamese (Native), Spanish (Intermediate)"	83.33%
+583	Jennifer Lynch	22	Female	India	Hindi	French (Intermediate)	50.0%
+584	Hannah Adams	33	Female	Mexico	Spanish	"Turkish (Native), Yoruba (Beginner), English (Native)"	75.0%
+585	Hannah Cooke	51	Male	Germany	German	English (Beginner)	25.0%
+586	Cindy Clayton	54	Male	South Korea	Korean	"Turkish (Beginner), Hindi (Intermediate), Vietnamese (Intermediate)"	41.67%
+587	Mrs. Mary Hammond	49	Male	Italy	Italian	"Portuguese (Beginner), Korean (Native)"	62.5%
+588	Robert Parker	24	Male	Russia	Russian	"French (Intermediate), German (Native), Yoruba (Fluent)"	75.0%
+589	Tiffany Johnson	63	Male	Brazil	Portuguese	Vietnamese (Intermediate)	50.0%
+590	Ebony Wilson	63	Female	Germany	German	"Portuguese (Fluent), English (Intermediate), Mandarin (Native)"	75.0%
+591	Veronica Hunt	43	Male	Mexico	Spanish	Hindi (Beginner)	25.0%
+592	Jerry Perry	33	Female	USA	English	Portuguese (Native)	100.0%
+593	Jennifer Miller	48	Other	Vietnam	Vietnamese	"French (Fluent), Korean (Beginner)"	50.0%
+594	Yesenia Thompson	39	Male	Japan	Japanese	"German (Beginner), Italian (Fluent)"	50.0%
+595	Jeffrey Hale	61	Other	France	French	"Spanish (Intermediate), Japanese (Intermediate), Arabic (Fluent)"	58.33%
+596	Russell Little	19	Female	Japan	Japanese	"Korean (Fluent), Hindi (Native), Italian (Fluent)"	83.33%
+597	Seth Stanley	69	Male	Turkey	Turkish	Hindi (Native)	100.0%
+598	Joshua Krause	69	Female	Germany	German	"Italian (Intermediate), Portuguese (Native)"	75.0%
+599	Michael Atkinson	54	Male	USA	English	"Portuguese (Beginner), Turkish (Fluent), Italian (Intermediate)"	50.0%
+600	Brenda Harper	44	Female	France	French	"English (Native), Hindi (Intermediate)"	75.0%
+601	Jennifer Aguilar	33	Male	Germany	German	"French (Intermediate), Italian (Beginner), Yoruba (Beginner)"	33.33%
+602	Erik Stokes	68	Female	India	Hindi	"Mandarin (Intermediate), Yoruba (Beginner)"	37.5%
+603	Jerry Martinez MD	51	Other	Russia	Russian	"Portuguese (Fluent), Yoruba (Native)"	87.5%
+604	Crystal Morton	66	Other	USA	English	"Hindi (Native), Japanese (Intermediate)"	75.0%
+605	David Parker	31	Other	South Korea	Korean	"Arabic (Native), French (Fluent)"	87.5%
+606	Sue Horne	30	Male	Russia	Russian	"Hindi (Intermediate), Turkish (Fluent)"	62.5%
+607	Paul Fox	19	Other	Russia	Russian	"Italian (Fluent), Turkish (Intermediate), Spanish (Native)"	75.0%
+608	David Campbell	42	Female	Vietnam	Vietnamese	English (Intermediate)	50.0%
+609	John Zuniga	52	Male	France	French	Mandarin (Intermediate)	50.0%
+610	Michael Dickerson	69	Male	India	Hindi	"Mandarin (Beginner), Japanese (Intermediate)"	37.5%
+611	David Walker	52	Male	Nigeria	Yoruba	"French (Native), English (Fluent), Arabic (Intermediate)"	75.0%
+612	Charles Arnold	56	Male	Japan	Japanese	Arabic (Beginner)	25.0%
+613	Alexander Hall	54	Other	Germany	German	"Hindi (Intermediate), Mandarin (Fluent)"	62.5%
+614	Jennifer Stephenson	52	Male	Egypt	Arabic	German (Fluent)	75.0%
+615	Dana Castro	54	Female	Vietnam	Vietnamese	"Portuguese (Intermediate), Yoruba (Fluent), Spanish (Beginner)"	50.0%
+616	Lauren Jackson	70	Female	Russia	Russian	Portuguese (Fluent)	75.0%
+617	William Evans	40	Male	Turkey	Turkish	Portuguese (Intermediate)	50.0%
+618	Rebecca Harmon	18	Female	South Korea	Korean	English (Native)	100.0%
+619	Rachel Boone	29	Other	India	Hindi	"French (Fluent), Japanese (Beginner)"	50.0%
+620	Christopher Wagner	69	Male	Egypt	Arabic	"French (Beginner), Turkish (Beginner)"	25.0%
+621	Joseph Snyder	59	Other	Germany	German	"Japanese (Intermediate), Yoruba (Intermediate)"	50.0%
+622	Brady Smith	43	Female	France	French	English (Beginner)	25.0%
+623	Angela Nixon	58	Female	Turkey	Turkish	"German (Beginner), Japanese (Fluent)"	50.0%
+624	Dr. Joanna Hill	56	Male	Mexico	Spanish	French (Fluent)	75.0%
+625	Gregory Foster	50	Other	Italy	Italian	Japanese (Native)	100.0%
+626	Stephanie Moore	64	Male	USA	English	Portuguese (Native)	100.0%
+627	Daniel Williams	30	Male	Egypt	Arabic	Spanish (Beginner)	25.0%
+628	Kayla Jones	29	Other	China	Mandarin	"Portuguese (Fluent), Vietnamese (Intermediate)"	62.5%
+629	Jerry Strickland	66	Other	South Korea	Korean	"Portuguese (Native), Arabic (Beginner)"	62.5%
+630	Brandy Sims	44	Female	Nigeria	Yoruba	"Turkish (Native), Hindi (Intermediate)"	75.0%
+631	Alexis Hernandez	31	Other	Germany	German	"Mandarin (Fluent), Russian (Beginner), Yoruba (Intermediate)"	50.0%
+632	Holly Stuart	27	Male	Brazil	Portuguese	"German (Beginner), Yoruba (Beginner)"	25.0%
+633	Melissa Anderson	26	Other	China	Mandarin	Portuguese (Beginner)	25.0%
+634	Nicholas Bass	66	Female	Italy	Italian	"Yoruba (Native), Hindi (Fluent), Turkish (Beginner)"	66.67%
+635	James Wells	63	Female	Germany	German	French (Intermediate)	50.0%
+636	John Phillips	30	Female	Italy	Italian	"Spanish (Beginner), Hindi (Intermediate), Japanese (Fluent)"	50.0%
+637	Susan Bailey	49	Female	Italy	Italian	Vietnamese (Fluent)	75.0%
+638	Jamie Riley	36	Male	Turkey	Turkish	"Arabic (Beginner), Portuguese (Fluent)"	50.0%
+639	Kathryn Craig	61	Female	Vietnam	Vietnamese	"German (Intermediate), English (Intermediate)"	50.0%
+640	Sarah Lopez	52	Other	France	French	"Spanish (Fluent), Mandarin (Native), Turkish (Beginner)"	66.67%
+641	Jose Hicks	65	Male	USA	English	"Italian (Fluent), Yoruba (Intermediate), Korean (Fluent)"	66.67%
+642	Kelly Mccullough	61	Other	Vietnam	Vietnamese	Russian (Native)	100.0%
+643	Katie Mckenzie	36	Other	Russia	Russian	Turkish (Beginner)	25.0%
+644	Glenn Hamilton	52	Other	Turkey	Turkish	"Hindi (Native), Portuguese (Fluent), German (Intermediate)"	75.0%
+645	Matthew Williams	69	Male	South Korea	Korean	Turkish (Native)	100.0%
+646	Tracy Ellis	47	Other	Russia	Russian	"Spanish (Beginner), Portuguese (Intermediate)"	37.5%
+647	Dakota Garcia	70	Other	Russia	Russian	"Turkish (Native), Korean (Native), Japanese (Fluent)"	91.67%
+648	Riley Smith	62	Male	China	Mandarin	"Turkish (Beginner), Spanish (Native)"	62.5%
+649	Teresa Lopez	58	Male	Japan	Japanese	"Turkish (Native), Korean (Intermediate), Hindi (Fluent)"	75.0%
+650	Vincent Ward	65	Female	Brazil	Portuguese	"Yoruba (Beginner), Spanish (Beginner), French (Native)"	50.0%
+651	Alexa Ewing	59	Other	Mexico	Spanish	"German (Intermediate), Hindi (Intermediate)"	50.0%
+652	Lawrence Hebert	36	Female	France	French	Russian (Intermediate)	50.0%
+653	Emily Short	66	Other	Japan	Japanese	"German (Intermediate), Italian (Fluent), Turkish (Intermediate)"	58.33%
+654	Jonathan Cox	24	Other	Turkey	Turkish	Italian (Intermediate)	50.0%
+655	Kevin Casey	36	Female	Russia	Russian	"German (Beginner), Korean (Native), Vietnamese (Native)"	75.0%
+656	Patricia Smith	32	Other	Vietnam	Vietnamese	"Korean (Native), German (Fluent), Arabic (Fluent)"	83.33%
+657	Heather Clark	69	Male	Vietnam	Vietnamese	"Spanish (Beginner), Mandarin (Native)"	62.5%
+658	Christina Lopez	46	Male	USA	English	"Korean (Fluent), Japanese (Fluent), Mandarin (Fluent)"	75.0%
+659	Matthew Carr	63	Female	Russia	Russian	"Portuguese (Fluent), Mandarin (Fluent), German (Fluent)"	75.0%
+660	Laurie Shepard	43	Other	India	Hindi	Italian (Fluent)	75.0%
+661	Susan Brown	23	Male	USA	English	"Hindi (Beginner), Korean (Native), Portuguese (Intermediate)"	58.33%
+662	Amanda Holland	66	Male	USA	English	"Russian (Fluent), Spanish (Intermediate), German (Beginner)"	50.0%
+663	Kathryn Barnes	22	Female	Italy	Italian	"Portuguese (Fluent), Mandarin (Beginner)"	50.0%
+664	Thomas Howe	18	Male	China	Mandarin	"Italian (Native), German (Beginner), Turkish (Intermediate)"	58.33%
+665	Michelle Morgan	49	Female	Egypt	Arabic	"Korean (Beginner), Turkish (Intermediate), Italian (Intermediate)"	41.67%
+666	William Sandoval	33	Male	China	Mandarin	"Hindi (Fluent), Portuguese (Native), Vietnamese (Beginner)"	66.67%
+667	William Lynch	26	Male	South Korea	Korean	Spanish (Beginner)	25.0%
+668	Steven Miller	43	Male	USA	English	"Russian (Native), Korean (Native), French (Native)"	100.0%
+669	Caitlin Rodriguez	57	Female	South Korea	Korean	"Hindi (Fluent), Mandarin (Intermediate), French (Intermediate)"	58.33%
+670	Miguel Franklin	54	Other	Mexico	Spanish	"Mandarin (Beginner), Japanese (Native)"	62.5%
+671	Christopher Bradshaw	70	Female	India	Hindi	"Spanish (Fluent), Russian (Beginner)"	50.0%
+672	Melissa Hess	24	Other	Egypt	Arabic	"Portuguese (Fluent), Vietnamese (Native), French (Native)"	91.67%
+673	Ashley Ayala	39	Other	Turkey	Turkish	"Italian (Beginner), Vietnamese (Native)"	62.5%
+674	Nicole Olson	55	Male	USA	English	Hindi (Fluent)	75.0%
+675	Ariel Duran	19	Male	Mexico	Spanish	Yoruba (Beginner)	25.0%
+676	Richard Reid	35	Other	China	Mandarin	"Japanese (Beginner), Korean (Native), Russian (Intermediate)"	58.33%
+677	Kimberly Jones	48	Female	China	Mandarin	"German (Native), Vietnamese (Native)"	100.0%
+678	Adrian Rowe	24	Female	Russia	Russian	Hindi (Fluent)	75.0%
+679	Bryce Cruz	47	Female	South Korea	Korean	German (Native)	100.0%
+680	Stacey Edwards	53	Female	Turkey	Turkish	"Portuguese (Intermediate), Yoruba (Intermediate)"	50.0%
+681	Angela Myers	53	Male	Japan	Japanese	"Russian (Beginner), Korean (Intermediate)"	37.5%
+682	Victoria Williams	42	Other	Nigeria	Yoruba	"Portuguese (Fluent), English (Beginner)"	50.0%
+683	Thomas Johnson	20	Other	Russia	Russian	Spanish (Native)	100.0%
+684	Jennifer Castro	70	Female	Mexico	Spanish	"Italian (Fluent), Portuguese (Beginner)"	50.0%
+685	Jennifer Mcclain	57	Male	Turkey	Turkish	Hindi (Native)	100.0%
+686	Victoria Brown	28	Male	Russia	Russian	"Spanish (Native), Vietnamese (Beginner), English (Native)"	75.0%
+687	Sherry Thomas	42	Female	Russia	Russian	Korean (Beginner)	25.0%
+688	Bethany Clark	19	Other	Nigeria	Yoruba	"Mandarin (Beginner), French (Fluent)"	50.0%
+689	Sandra Ray	24	Other	USA	English	"Spanish (Intermediate), German (Native)"	75.0%
+690	David Powell	21	Male	Nigeria	Yoruba	"Italian (Fluent), Russian (Beginner), Arabic (Intermediate)"	50.0%
+691	Mark Williams	39	Female	China	Mandarin	"Russian (Fluent), Yoruba (Beginner)"	50.0%
+692	Andrea Smith	65	Other	Egypt	Arabic	"Portuguese (Intermediate), Italian (Beginner)"	37.5%
+693	Raymond Wall	38	Male	India	Hindi	"Russian (Beginner), Mandarin (Native)"	62.5%
+694	Teresa Wilson	53	Male	Mexico	Spanish	Vietnamese (Beginner)	25.0%
+695	Patrick Morris	45	Male	USA	English	"Russian (Intermediate), Portuguese (Native), Turkish (Native)"	83.33%
+696	Kenneth Brown	65	Female	Japan	Japanese	"Turkish (Fluent), Arabic (Fluent)"	75.0%
+697	David Rivera	67	Other	Italy	Italian	"German (Beginner), Japanese (Beginner)"	25.0%
+698	Mr. Bradley Stewart	54	Male	France	French	Yoruba (Fluent)	75.0%
+699	Jamie Castillo	55	Male	USA	English	Vietnamese (Intermediate)	50.0%
+700	Benjamin Robinson	44	Female	France	French	Turkish (Intermediate)	50.0%
+701	Sandra Dixon	55	Male	USA	English	"Spanish (Beginner), Portuguese (Intermediate)"	37.5%
+702	Benjamin Moore	22	Female	Russia	Russian	"Portuguese (Fluent), Korean (Fluent)"	75.0%
+703	Keith Beck	51	Male	India	Hindi	"French (Intermediate), Spanish (Intermediate)"	50.0%
+704	Krystal Bell	38	Other	Egypt	Arabic	English (Beginner)	25.0%
+705	Monica Morales	47	Female	Egypt	Arabic	"Mandarin (Intermediate), Yoruba (Fluent), Turkish (Fluent)"	66.67%
+706	Natasha Conway	41	Male	Japan	Japanese	Italian (Native)	100.0%
+707	Gregory Waters	39	Female	Russia	Russian	Spanish (Intermediate)	50.0%
+708	James Rowland	35	Other	Nigeria	Yoruba	Portuguese (Fluent)	75.0%
+709	Jose Wright	30	Male	Russia	Russian	Italian (Intermediate)	50.0%
+710	Brian Graham	41	Male	Egypt	Arabic	"Yoruba (Intermediate), Japanese (Beginner)"	37.5%
+711	Kimberly Stone	42	Female	USA	English	"Italian (Beginner), French (Beginner)"	25.0%
+712	Andrew Howard	49	Other	Egypt	Arabic	"Spanish (Intermediate), Japanese (Native), Korean (Native)"	83.33%
+713	Catherine Adams	28	Female	Brazil	Portuguese	"Japanese (Fluent), Arabic (Intermediate)"	62.5%
+714	Dr. Travis Smith	34	Male	France	French	"Yoruba (Native), Japanese (Intermediate), Turkish (Intermediate)"	66.67%
+715	Cynthia Pena	40	Other	Vietnam	Vietnamese	"Hindi (Fluent), English (Native)"	87.5%
+716	Stacy Vega	49	Other	Nigeria	Yoruba	Spanish (Beginner)	25.0%
+717	Rachel Martin	57	Female	Germany	German	"Spanish (Beginner), Italian (Fluent)"	50.0%
+718	Parker Fox	68	Other	South Korea	Korean	Arabic (Intermediate)	50.0%
+719	Mrs. Janice Roberts DVM	64	Other	Brazil	Portuguese	English (Fluent)	75.0%
+720	Dr. Michael Lutz	70	Other	Egypt	Arabic	"Spanish (Native), Hindi (Native), German (Fluent)"	91.67%
+721	Vanessa Thompson	40	Female	Japan	Japanese	"Vietnamese (Beginner), Hindi (Native), Turkish (Native)"	75.0%
+722	Kenneth Good	34	Female	Nigeria	Yoruba	Spanish (Native)	100.0%
+723	Sharon Fuller	66	Female	South Korea	Korean	"Spanish (Intermediate), Hindi (Intermediate), Russian (Native)"	66.67%
+724	Jenna Richardson	24	Female	USA	English	"Hindi (Intermediate), Mandarin (Fluent), Italian (Native)"	75.0%
+725	Daniel Estes	37	Male	China	Mandarin	Turkish (Intermediate)	50.0%
+726	Sharon Dyer	24	Male	Germany	German	"Spanish (Intermediate), Yoruba (Beginner)"	37.5%
+727	Cynthia Morgan	21	Female	Vietnam	Vietnamese	"French (Fluent), Spanish (Intermediate)"	62.5%
+728	Erica Thomas	63	Other	Egypt	Arabic	"Turkish (Fluent), Japanese (Fluent)"	75.0%
+729	Krista Herrera	64	Female	Mexico	Spanish	"Mandarin (Beginner), Portuguese (Beginner), Korean (Fluent)"	41.67%
+730	Ashley Weeks	45	Female	Egypt	Arabic	"Hindi (Intermediate), Italian (Beginner)"	37.5%
+731	Michael Burke	67	Other	Italy	Italian	Yoruba (Fluent)	75.0%
+732	Michelle Davis	70	Female	Russia	Russian	"Hindi (Beginner), Turkish (Intermediate), Arabic (Native)"	58.33%
+733	Daniel Price MD	51	Other	Nigeria	Yoruba	Portuguese (Fluent)	75.0%
+734	Jason Simon	31	Female	Vietnam	Vietnamese	"Italian (Beginner), Russian (Beginner), Mandarin (Intermediate)"	33.33%
+735	Tyler Munoz	31	Female	Italy	Italian	"Japanese (Beginner), Turkish (Beginner), Arabic (Fluent)"	41.67%
+736	Justin Miller	24	Other	Egypt	Arabic	"Mandarin (Intermediate), Turkish (Fluent), Japanese (Beginner)"	50.0%
+737	Melissa Barnes	60	Other	Nigeria	Yoruba	Spanish (Intermediate)	50.0%
+738	Michael Mcconnell	45	Male	Germany	German	English (Native)	100.0%
+739	Janice Boyer	44	Other	Turkey	Turkish	Arabic (Fluent)	75.0%
+740	Anthony Bird	69	Other	Nigeria	Yoruba	Russian (Beginner)	25.0%
+741	Lisa Hansen	54	Male	Russia	Russian	"English (Intermediate), Portuguese (Native), Spanish (Intermediate)"	66.67%
+742	Steven Farrell	38	Female	Egypt	Arabic	"Turkish (Beginner), Portuguese (Beginner), Japanese (Beginner)"	25.0%
+743	Mr. Michael Barber	43	Female	France	French	"Spanish (Fluent), Korean (Beginner), German (Beginner)"	41.67%
+744	Rachel Davis DVM	20	Other	Germany	German	"Spanish (Intermediate), Turkish (Intermediate)"	50.0%
+745	Lauren Rivera	53	Other	Egypt	Arabic	Russian (Native)	100.0%
+746	Linda Davis	39	Male	India	Hindi	"English (Intermediate), German (Beginner)"	37.5%
+747	Alicia Kramer	59	Female	South Korea	Korean	"Turkish (Native), Russian (Intermediate)"	75.0%
+748	Monica Davis	56	Male	China	Mandarin	"German (Native), Hindi (Intermediate)"	75.0%
+749	Jenna Anderson	26	Other	Turkey	Turkish	"Japanese (Fluent), Italian (Native), English (Intermediate)"	75.0%
+750	Terri Nielsen	37	Female	Egypt	Arabic	"Russian (Fluent), Turkish (Fluent), Spanish (Beginner)"	58.33%
+751	Sharon Gonzalez	36	Other	Turkey	Turkish	Japanese (Intermediate)	50.0%
+752	Terry Garza	45	Other	Russia	Russian	Portuguese (Beginner)	25.0%
+753	Carlos Perez	65	Male	Nigeria	Yoruba	French (Beginner)	25.0%
+754	Eric Navarro III	59	Male	USA	English	"French (Native), Spanish (Fluent)"	87.5%
+755	Steven Beck	20	Male	Vietnam	Vietnamese	"Italian (Fluent), Korean (Beginner), English (Fluent)"	58.33%
+756	Catherine Harrell	54	Other	Russia	Russian	"Hindi (Beginner), Mandarin (Beginner), English (Beginner)"	25.0%
+757	Joshua Castillo	70	Female	USA	English	French (Native)	100.0%
+758	Robert Nelson	27	Other	France	French	Turkish (Beginner)	25.0%
+759	Melissa Phelps	43	Male	India	Hindi	Japanese (Fluent)	75.0%
+760	Rebecca Doyle	62	Other	USA	English	"Russian (Intermediate), Japanese (Intermediate), Korean (Native)"	66.67%
+761	Charles Clark	66	Male	Japan	Japanese	German (Intermediate)	50.0%
+762	April Martinez	34	Other	Germany	German	"English (Native), Mandarin (Native)"	100.0%
+763	Mr. Fernando Robinson	53	Other	Nigeria	Yoruba	Russian (Beginner)	25.0%
+764	Eugene Ibarra	21	Female	Italy	Italian	"Turkish (Native), Vietnamese (Intermediate)"	75.0%
+765	Matthew Gross	22	Female	Brazil	Portuguese	"Russian (Native), Mandarin (Fluent), English (Intermediate)"	75.0%
+766	Chelsea Bailey	35	Female	Turkey	Turkish	"French (Fluent), Spanish (Intermediate), Italian (Native)"	75.0%
+767	Joshua Costa	24	Female	Nigeria	Yoruba	"Portuguese (Fluent), Vietnamese (Intermediate)"	62.5%
+768	Juan Jones	44	Other	China	Mandarin	Korean (Intermediate)	50.0%
+769	Troy Kerr	35	Other	Germany	German	"Spanish (Native), Japanese (Intermediate)"	75.0%
+770	Samuel Baldwin	61	Male	Russia	Russian	"English (Native), Korean (Native)"	100.0%
+771	Julia Henderson	42	Female	Germany	German	"Korean (Fluent), Hindi (Fluent), French (Beginner)"	58.33%
+772	Kimberly Juarez	68	Male	India	Hindi	French (Intermediate)	50.0%
+773	Barry Alexander	35	Female	Brazil	Portuguese	"Italian (Native), Japanese (Beginner)"	62.5%
+774	Jose Cooper	28	Other	Italy	Italian	"Yoruba (Beginner), Arabic (Intermediate), Korean (Intermediate)"	41.67%
+775	Nancy Cruz	33	Other	Russia	Russian	"Turkish (Fluent), French (Native)"	87.5%
+776	Michael Weaver	26	Male	France	French	"Turkish (Intermediate), Yoruba (Intermediate)"	50.0%
+777	Andrew Jensen	47	Other	Vietnam	Vietnamese	"Arabic (Fluent), Japanese (Beginner), Spanish (Native)"	66.67%
+778	Laura Perry	23	Female	Nigeria	Yoruba	"Turkish (Beginner), Arabic (Native), English (Fluent)"	66.67%
+779	James Miller	21	Female	USA	English	"Japanese (Intermediate), Mandarin (Fluent), Russian (Native)"	75.0%
+780	Barbara Nunez	52	Other	Turkey	Turkish	"Russian (Intermediate), German (Beginner)"	37.5%
+781	Carol Harris	32	Other	France	French	"German (Native), Mandarin (Fluent), Vietnamese (Fluent)"	83.33%
+782	Kyle Russell	23	Other	Egypt	Arabic	Italian (Fluent)	75.0%
+783	Kimberly Fox	48	Female	Nigeria	Yoruba	"French (Beginner), Hindi (Native), Turkish (Beginner)"	50.0%
+784	Brandon Middleton	45	Other	China	Mandarin	"Turkish (Intermediate), Arabic (Intermediate)"	50.0%
+785	Carlos Lee	32	Male	South Korea	Korean	"Hindi (Fluent), Vietnamese (Beginner), Spanish (Beginner)"	41.67%
+786	Margaret Reynolds	51	Female	Egypt	Arabic	"Hindi (Native), Italian (Fluent), Portuguese (Fluent)"	83.33%
+787	Martin Baker	52	Male	Russia	Russian	Korean (Native)	100.0%
+788	Margaret Morrison	52	Female	Turkey	Turkish	"Korean (Fluent), German (Native), Hindi (Intermediate)"	75.0%
+789	Gregory Mack	51	Male	South Korea	Korean	"Mandarin (Fluent), Italian (Beginner)"	50.0%
+790	Matthew Villegas	68	Male	Italy	Italian	"Mandarin (Native), Korean (Native)"	100.0%
+791	Joseph Lewis	58	Male	South Korea	Korean	Vietnamese (Native)	100.0%
+792	David Ruiz	35	Female	Brazil	Portuguese	"Turkish (Beginner), Japanese (Fluent), French (Native)"	66.67%
+793	Sara Roberts	52	Female	Germany	German	Mandarin (Native)	100.0%
+794	Nathan Beck	65	Other	Vietnam	Vietnamese	"German (Beginner), Russian (Intermediate), Yoruba (Native)"	58.33%
+795	Sherry Davis	53	Male	Italy	Italian	"Japanese (Beginner), Turkish (Intermediate), French (Fluent)"	50.0%
+796	Jon Salazar	62	Other	China	Mandarin	Russian (Fluent)	75.0%
+797	Crystal Taylor	31	Female	China	Mandarin	"Turkish (Intermediate), Arabic (Fluent)"	62.5%
+798	Cynthia Smith	45	Other	China	Mandarin	Arabic (Native)	100.0%
+799	Joseph Schultz	61	Male	South Korea	Korean	Vietnamese (Intermediate)	50.0%
+800	Brianna Romero	50	Female	Russia	Russian	"German (Fluent), Hindi (Native)"	87.5%
+801	Nathaniel Ward	38	Male	Egypt	Arabic	Vietnamese (Beginner)	25.0%
+802	Cheryl Vang	35	Female	Italy	Italian	Japanese (Native)	100.0%
+803	Jessica Swanson	31	Female	India	Hindi	"Mandarin (Beginner), Vietnamese (Native), German (Intermediate)"	58.33%
+804	Andrew Alexander	20	Male	Germany	German	Russian (Intermediate)	50.0%
+805	Matthew Rose	57	Female	India	Hindi	"Italian (Beginner), English (Intermediate)"	37.5%
+806	Katherine Moore	49	Female	South Korea	Korean	"Mandarin (Intermediate), Arabic (Fluent)"	62.5%
+807	Kenneth Baker	41	Male	France	French	"Mandarin (Fluent), Hindi (Beginner), Vietnamese (Native)"	66.67%
+808	Todd Taylor	37	Female	Egypt	Arabic	"Korean (Fluent), Hindi (Native), Turkish (Intermediate)"	75.0%
+809	Kimberly Giles	22	Other	South Korea	Korean	Hindi (Beginner)	25.0%
+810	Elizabeth Harrison	49	Other	Egypt	Arabic	"English (Native), Spanish (Intermediate)"	75.0%
+811	Jacob Mcintosh	51	Female	Italy	Italian	"Japanese (Intermediate), French (Intermediate), Russian (Beginner)"	41.67%
+812	David Williams	23	Other	France	French	"Mandarin (Fluent), Vietnamese (Intermediate)"	62.5%
+813	Melinda Lawrence	21	Male	Nigeria	Yoruba	"Portuguese (Intermediate), Japanese (Native), French (Native)"	83.33%
+814	David Willis	59	Female	China	Mandarin	"Russian (Native), Spanish (Beginner)"	62.5%
+815	Rebecca Martin	48	Other	France	French	"Spanish (Native), Vietnamese (Fluent)"	87.5%
+816	Meghan Perkins	59	Male	France	French	"Spanish (Native), German (Fluent), Italian (Native)"	91.67%
+817	Kelly Blevins	60	Other	Nigeria	Yoruba	"Japanese (Fluent), Portuguese (Intermediate), Korean (Intermediate)"	58.33%
+818	Lori Smith	35	Male	China	Mandarin	"Korean (Beginner), Turkish (Native), Vietnamese (Native)"	75.0%
+819	Kyle Wang	20	Male	USA	English	"Italian (Native), Portuguese (Beginner), Spanish (Beginner)"	50.0%
+820	Mark Moore	35	Male	Brazil	Portuguese	"Korean (Native), Arabic (Intermediate), Japanese (Beginner)"	58.33%
+821	Samantha Oliver	34	Male	Germany	German	"Yoruba (Beginner), Arabic (Beginner)"	25.0%
+822	Douglas Adams	33	Other	Japan	Japanese	English (Intermediate)	50.0%
+823	Richard Lane	27	Other	India	Hindi	"Yoruba (Native), Arabic (Native), Vietnamese (Fluent)"	91.67%
+824	Michelle Thomas DVM	21	Other	France	French	English (Beginner)	25.0%
+825	Gary Walsh	49	Female	India	Hindi	"Vietnamese (Fluent), English (Beginner)"	50.0%
+826	Alex Phillips	23	Female	Nigeria	Yoruba	Russian (Intermediate)	50.0%
+827	Ricardo Watkins	53	Other	South Korea	Korean	"Mandarin (Intermediate), French (Intermediate)"	50.0%
+828	Shane Lewis	36	Female	China	Mandarin	"German (Fluent), Turkish (Beginner), Hindi (Beginner)"	41.67%
+829	Shaun Hubbard	41	Female	Vietnam	Vietnamese	"Russian (Intermediate), Spanish (Beginner)"	37.5%
+830	Joseph Krause	44	Other	France	French	English (Beginner)	25.0%
+831	Michelle Rios	21	Male	USA	English	"Spanish (Fluent), Yoruba (Intermediate), Mandarin (Beginner)"	50.0%
+832	Tammy Evans MD	25	Other	USA	English	Vietnamese (Fluent)	75.0%
+833	Cynthia Holland	66	Male	South Korea	Korean	"Vietnamese (Fluent), Turkish (Native), Portuguese (Beginner)"	66.67%
+834	Elizabeth Richardson	67	Other	Brazil	Portuguese	Spanish (Fluent)	75.0%
+835	James Schneider	41	Female	Egypt	Arabic	"Mandarin (Intermediate), Vietnamese (Beginner), Turkish (Fluent)"	50.0%
+836	Ricardo Mitchell	69	Female	Vietnam	Vietnamese	"Arabic (Native), Korean (Fluent)"	87.5%
+837	Jessica Carr	39	Male	China	Mandarin	Turkish (Native)	100.0%
+838	Kelly Martin	52	Other	India	Hindi	Italian (Fluent)	75.0%
+839	Brian Cruz	53	Male	France	French	Turkish (Intermediate)	50.0%
+840	John Ruiz	47	Other	China	Mandarin	"Russian (Beginner), Hindi (Fluent), Italian (Intermediate)"	50.0%
+841	Brandi Jimenez	46	Male	Egypt	Arabic	Russian (Beginner)	25.0%
+842	Carolyn Smith	38	Female	Russia	Russian	"Portuguese (Beginner), English (Native), Vietnamese (Beginner)"	50.0%
+843	Michael Valencia	42	Other	Brazil	Portuguese	"German (Fluent), Turkish (Native)"	87.5%
+844	Andre Collins	22	Female	Mexico	Spanish	"Vietnamese (Intermediate), English (Intermediate)"	50.0%
+845	Tami Rivera	21	Female	Turkey	Turkish	German (Intermediate)	50.0%
+846	Bethany Davidson	41	Male	Nigeria	Yoruba	"Mandarin (Beginner), Korean (Beginner)"	25.0%
+847	Philip Barr	67	Female	Germany	German	"Russian (Fluent), Japanese (Fluent)"	75.0%
+848	Michael Gomez	60	Female	Russia	Russian	"Vietnamese (Native), Turkish (Intermediate)"	75.0%
+849	Jennifer Silva	25	Male	Germany	German	"French (Fluent), Mandarin (Fluent)"	75.0%
+850	Ms. Jodi Davis	63	Female	Vietnam	Vietnamese	"Turkish (Fluent), Mandarin (Intermediate), Portuguese (Beginner)"	50.0%
+851	Kelly Haynes	47	Female	Russia	Russian	"Arabic (Native), Korean (Intermediate), Vietnamese (Beginner)"	58.33%
+852	Cynthia Walsh	31	Other	France	French	Korean (Intermediate)	50.0%
+853	Anthony Randall	61	Male	Nigeria	Yoruba	"German (Beginner), Portuguese (Fluent), Hindi (Fluent)"	58.33%
+854	Elizabeth Rose	53	Other	Russia	Russian	"Arabic (Native), Portuguese (Beginner), Turkish (Native)"	75.0%
+855	Megan Smith	19	Male	Germany	German	"Russian (Fluent), English (Beginner), French (Fluent)"	58.33%
+856	Brandon Mullins	61	Male	Japan	Japanese	"Vietnamese (Intermediate), Arabic (Beginner)"	37.5%
+857	Craig Brooks	54	Other	Vietnam	Vietnamese	"Korean (Intermediate), Italian (Native)"	75.0%
+858	Julia Gardner	54	Male	Vietnam	Vietnamese	"French (Beginner), Italian (Beginner)"	25.0%
+859	Jennifer Garcia	47	Male	Vietnam	Vietnamese	French (Intermediate)	50.0%
+860	Nathaniel Edwards	50	Female	Japan	Japanese	Arabic (Beginner)	25.0%
+861	Richard Oneal	57	Other	Vietnam	Vietnamese	"Italian (Native), Spanish (Fluent)"	87.5%
+862	Luis Yang	48	Female	Mexico	Spanish	"Mandarin (Beginner), Korean (Native), Turkish (Native)"	75.0%
+863	Russell Sutton	20	Other	Brazil	Portuguese	Hindi (Beginner)	25.0%
+864	Christopher Scott	54	Female	Vietnam	Vietnamese	"Portuguese (Intermediate), Italian (Beginner), Japanese (Intermediate)"	41.67%
+865	Carol Bush	68	Female	Vietnam	Vietnamese	Mandarin (Intermediate)	50.0%
+866	Kristina Smith	31	Male	Mexico	Spanish	"Vietnamese (Beginner), Turkish (Fluent), Japanese (Native)"	66.67%
+867	Eric Mccoy	69	Other	Egypt	Arabic	"English (Intermediate), Japanese (Native)"	75.0%
+868	David Reyes	40	Female	Japan	Japanese	Spanish (Native)	100.0%
+869	Kristopher Castro	18	Male	Vietnam	Vietnamese	"Portuguese (Native), Hindi (Fluent)"	87.5%
+870	Jeffery Drake	18	Female	Vietnam	Vietnamese	"Portuguese (Beginner), German (Fluent)"	50.0%
+871	Tracy Morrison	59	Other	Turkey	Turkish	"Spanish (Native), Yoruba (Intermediate)"	75.0%
+872	Jose Kennedy	19	Male	Vietnam	Vietnamese	"Mandarin (Native), Yoruba (Fluent), Hindi (Beginner)"	66.67%
+873	Nancy Gilmore	31	Male	Italy	Italian	"Korean (Fluent), German (Beginner)"	50.0%
+874	Dawn Nelson	33	Other	India	Hindi	"Mandarin (Fluent), Vietnamese (Fluent), Italian (Intermediate)"	66.67%
+875	Shawn Mccullough	59	Other	Mexico	Spanish	"Arabic (Intermediate), Hindi (Native)"	75.0%
+876	Alexander Wells	64	Female	France	French	Spanish (Native)	100.0%
+877	Michele Lowe	29	Female	India	Hindi	"Russian (Fluent), Turkish (Fluent), Yoruba (Intermediate)"	66.67%
+878	Brian Daniel	56	Female	Brazil	Portuguese	"Spanish (Native), Italian (Native), Russian (Intermediate)"	83.33%
+879	Catherine Velasquez	21	Female	India	Hindi	"Vietnamese (Native), Italian (Native)"	100.0%
+880	Lindsay Arnold	49	Female	Vietnam	Vietnamese	"Portuguese (Beginner), Yoruba (Fluent)"	50.0%
+881	Jason Owens	39	Other	Italy	Italian	"Russian (Fluent), Korean (Fluent), Hindi (Native)"	83.33%
+882	Jessica Smith	52	Male	Italy	Italian	"Korean (Native), Portuguese (Native)"	100.0%
+883	Andrea Braun	50	Other	Brazil	Portuguese	"Italian (Fluent), Mandarin (Beginner), Arabic (Native)"	66.67%
+884	Michelle Steele	37	Other	Brazil	Portuguese	Mandarin (Beginner)	25.0%
+885	Jennifer Ramirez	25	Other	Nigeria	Yoruba	"German (Intermediate), French (Beginner), Russian (Native)"	58.33%
+886	Alexander Woods	61	Other	USA	English	"Portuguese (Beginner), Hindi (Native)"	62.5%
+887	Nancy Smith	56	Other	Nigeria	Yoruba	Russian (Beginner)	25.0%
+888	Sandra Camacho	36	Male	Nigeria	Yoruba	"French (Native), Italian (Fluent), Spanish (Intermediate)"	75.0%
+889	Jennifer Padilla	33	Female	India	Hindi	Japanese (Intermediate)	50.0%
+890	Amy Williams	22	Female	Turkey	Turkish	"Spanish (Fluent), Yoruba (Intermediate)"	62.5%
+891	Mason James	42	Male	India	Hindi	English (Intermediate)	50.0%
+892	Pam Wise	19	Male	Japan	Japanese	"Spanish (Beginner), Yoruba (Fluent), Korean (Intermediate)"	50.0%
+893	Wesley Spencer	37	Female	Russia	Russian	Japanese (Fluent)	75.0%
+894	Madison Nunez	58	Female	Brazil	Portuguese	"German (Fluent), Mandarin (Beginner)"	50.0%
+895	Michael Reynolds	57	Other	Brazil	Portuguese	"Korean (Intermediate), French (Native)"	75.0%
+896	Michelle Dickson	61	Male	Vietnam	Vietnamese	"Russian (Fluent), Portuguese (Intermediate)"	62.5%
+897	Sandra Willis DDS	34	Male	Nigeria	Yoruba	Turkish (Beginner)	25.0%
+898	Jacob Barnes	65	Male	South Korea	Korean	"Spanish (Fluent), Mandarin (Native), French (Fluent)"	83.33%
+899	Maria Jackson	52	Female	South Korea	Korean	"Hindi (Native), French (Beginner), Vietnamese (Intermediate)"	58.33%
+900	Jeffrey Alexander	23	Female	USA	English	"Yoruba (Intermediate), Italian (Beginner)"	37.5%
+901	Darrell Rivera	58	Other	Brazil	Portuguese	"Spanish (Native), Mandarin (Native), German (Intermediate)"	83.33%
+902	Mario Moore	64	Male	Vietnam	Vietnamese	"French (Native), English (Fluent), Spanish (Beginner)"	66.67%
+903	Kathleen Jones	22	Female	Russia	Russian	"Japanese (Fluent), Turkish (Beginner)"	50.0%
+904	Tony Johnson	55	Male	Germany	German	"Mandarin (Intermediate), Portuguese (Intermediate)"	50.0%
+905	Cassidy Pena	47	Male	Italy	Italian	French (Intermediate)	50.0%
+906	Dr. Jessica Reynolds	25	Female	France	French	"Portuguese (Native), Hindi (Fluent), English (Intermediate)"	75.0%
+907	Jeremiah Rubio	19	Female	Nigeria	Yoruba	"Japanese (Beginner), Vietnamese (Native), French (Fluent)"	66.67%
+908	John Huang	57	Female	Mexico	Spanish	"Korean (Fluent), Mandarin (Beginner)"	50.0%
+909	Bruce Briggs	32	Female	USA	English	"Vietnamese (Intermediate), Turkish (Fluent), Spanish (Native)"	75.0%
+910	Robert Turner	39	Other	Turkey	Turkish	"Mandarin (Beginner), Vietnamese (Fluent)"	50.0%
+911	Robert Rivera	45	Female	Vietnam	Vietnamese	"German (Native), Japanese (Fluent)"	87.5%
+912	Anthony Curtis	21	Male	Japan	Japanese	Turkish (Native)	100.0%
+913	Colleen Fitzpatrick	28	Other	USA	English	"Hindi (Intermediate), Arabic (Beginner)"	37.5%
+914	Kimberly Harris	51	Male	India	Hindi	"Mandarin (Beginner), Korean (Native), Yoruba (Intermediate)"	58.33%
+915	Jessica Williams	50	Male	Germany	German	"Turkish (Native), Korean (Fluent)"	87.5%
+916	Jackie Phillips	51	Male	Italy	Italian	"Arabic (Beginner), Korean (Intermediate)"	37.5%
+917	Andrew Williams	34	Female	France	French	"Vietnamese (Beginner), Korean (Beginner), Yoruba (Intermediate)"	33.33%
+918	Shawna Harrison	35	Male	Egypt	Arabic	"German (Fluent), Portuguese (Intermediate), Mandarin (Fluent)"	66.67%
+919	Charles Meza	26	Other	Vietnam	Vietnamese	"Yoruba (Fluent), Japanese (Intermediate), Turkish (Intermediate)"	58.33%
+920	Rebecca Jones	56	Male	Egypt	Arabic	"Russian (Beginner), Japanese (Intermediate)"	37.5%
+921	Richard Wilson	45	Male	China	Mandarin	English (Beginner)	25.0%
+922	Taylor Reynolds	60	Male	Germany	German	Portuguese (Beginner)	25.0%
+923	Mitchell Griffin	62	Other	USA	English	"Japanese (Native), Italian (Intermediate), Vietnamese (Fluent)"	75.0%
+924	Stacy Fernandez	25	Other	France	French	"Portuguese (Fluent), Japanese (Beginner), Italian (Beginner)"	41.67%
+925	Jaime Atkinson	34	Male	Egypt	Arabic	"Russian (Native), Spanish (Beginner)"	62.5%
+926	Angela Hunter	68	Other	USA	English	Hindi (Fluent)	75.0%
+927	Shawn Wright	62	Male	Mexico	Spanish	"Hindi (Native), Arabic (Fluent)"	87.5%
+928	Wendy Kemp	57	Other	India	Hindi	Portuguese (Beginner)	25.0%
+929	Erica Hale	69	Female	France	French	Korean (Intermediate)	50.0%
+930	Susan Allen	46	Female	Egypt	Arabic	"Turkish (Fluent), French (Intermediate), Japanese (Intermediate)"	58.33%
+931	Brittany Sullivan	67	Other	Japan	Japanese	Yoruba (Beginner)	25.0%
+932	Helen Campbell	69	Female	Mexico	Spanish	Vietnamese (Beginner)	25.0%
+933	James Smith	31	Male	Turkey	Turkish	"German (Fluent), Korean (Native), Vietnamese (Fluent)"	83.33%
+934	Patrick Schwartz	24	Male	France	French	"German (Fluent), Mandarin (Fluent), English (Beginner)"	58.33%
+935	Breanna Wilson	25	Male	Mexico	Spanish	"English (Intermediate), Portuguese (Beginner)"	37.5%
+936	John Martinez DVM	49	Other	Turkey	Turkish	"French (Intermediate), Spanish (Native), Hindi (Intermediate)"	66.67%
+937	Shelby Jackson	45	Other	Japan	Japanese	English (Fluent)	75.0%
+938	Robin Morris	55	Other	Germany	German	Japanese (Intermediate)	50.0%
+939	Mrs. Rebecca Thomas	32	Other	Germany	German	"Japanese (Intermediate), Italian (Intermediate), Vietnamese (Fluent)"	58.33%
+940	Collin Wilson	30	Female	Japan	Japanese	"Arabic (Native), Hindi (Beginner), Italian (Fluent)"	66.67%
+941	Dana Lloyd	70	Female	Turkey	Turkish	Arabic (Fluent)	75.0%
+942	Tina Hampton	70	Female	Nigeria	Yoruba	Russian (Native)	100.0%
+943	Kristin Johnson MD	62	Other	Egypt	Arabic	"German (Beginner), Spanish (Native), Mandarin (Beginner)"	50.0%
+944	Vincent Fisher	18	Other	India	Hindi	"Spanish (Fluent), French (Fluent)"	75.0%
+945	Robert Gillespie	56	Male	Egypt	Arabic	"Portuguese (Beginner), Mandarin (Beginner)"	25.0%
+946	William Sharp	34	Female	Vietnam	Vietnamese	"Arabic (Beginner), Turkish (Beginner)"	25.0%
+947	Mariah Smith DDS	32	Other	South Korea	Korean	Turkish (Beginner)	25.0%
+948	William Frederick	39	Other	Egypt	Arabic	Hindi (Fluent)	75.0%
+949	Michelle King	57	Male	Turkey	Turkish	"Russian (Native), Arabic (Native), French (Fluent)"	91.67%
+950	Samantha Walters	30	Female	India	Hindi	"Portuguese (Intermediate), English (Native)"	75.0%
+951	Curtis Bradley	37	Male	USA	English	Spanish (Intermediate)	50.0%
+952	Jennifer Li	70	Female	Egypt	Arabic	Vietnamese (Native)	100.0%
+953	Deanna Johnson	65	Female	India	Hindi	Arabic (Intermediate)	50.0%
+954	Erin Wu	50	Other	Vietnam	Vietnamese	"Turkish (Fluent), German (Fluent), French (Native)"	83.33%
+955	Joshua Gonzalez	32	Female	Nigeria	Yoruba	Russian (Native)	100.0%
+956	Maria Mullins	54	Female	China	Mandarin	English (Fluent)	75.0%
+957	Jordan Payne	35	Female	Vietnam	Vietnamese	"Spanish (Fluent), German (Fluent), Mandarin (Fluent)"	75.0%
+958	Manuel Cook	44	Male	Japan	Japanese	Vietnamese (Beginner)	25.0%
+959	Holly Wise	35	Female	Italy	Italian	Mandarin (Intermediate)	50.0%
+960	Jack Castillo	39	Male	Italy	Italian	"Russian (Native), Mandarin (Intermediate), English (Native)"	83.33%
+961	Miranda Gross	37	Other	South Korea	Korean	Yoruba (Native)	100.0%
+962	Stephanie Hardy	20	Male	Nigeria	Yoruba	English (Beginner)	25.0%
+963	Tammie Duran	23	Female	Italy	Italian	"Vietnamese (Native), Hindi (Fluent), German (Beginner)"	66.67%
+964	Sean Lopez	57	Female	China	Mandarin	"Japanese (Fluent), English (Native), Arabic (Fluent)"	83.33%
+965	Jennifer Long	33	Other	Germany	German	"French (Beginner), Spanish (Native), Mandarin (Intermediate)"	58.33%
+966	Jeffrey Key	40	Male	India	Hindi	"Arabic (Native), Spanish (Fluent), Korean (Native)"	91.67%
+967	Nancy Day	32	Male	Egypt	Arabic	"Russian (Native), German (Intermediate)"	75.0%
+968	Arthur Cantu	61	Female	Russia	Russian	"English (Native), Mandarin (Beginner)"	62.5%
+969	April Bartlett	51	Female	China	Mandarin	"Turkish (Fluent), Vietnamese (Beginner), Hindi (Intermediate)"	50.0%
+970	Annette Moore	25	Other	China	Mandarin	Korean (Native)	100.0%
+971	David Orr	32	Female	Japan	Japanese	"Portuguese (Beginner), Turkish (Beginner), Spanish (Intermediate)"	33.33%
+972	Joshua Coleman	32	Female	Mexico	Spanish	Italian (Fluent)	75.0%
+973	David Edwards	42	Female	India	Hindi	"Russian (Native), Vietnamese (Fluent), Arabic (Fluent)"	83.33%
+974	Dustin Franklin	52	Other	France	French	"Arabic (Intermediate), English (Intermediate), Yoruba (Beginner)"	41.67%
+975	Timothy Palmer	20	Other	Germany	German	"English (Intermediate), Yoruba (Intermediate), Portuguese (Native)"	66.67%
+976	Jennifer Simon	32	Male	Japan	Japanese	"Spanish (Fluent), French (Beginner), German (Intermediate)"	50.0%
+977	Miranda Sanford	36	Male	Germany	German	"French (Fluent), Russian (Native)"	87.5%
+978	Bradley Yates	48	Male	Russia	Russian	Turkish (Native)	100.0%
+979	Allison Vasquez	42	Female	Mexico	Spanish	Hindi (Native)	100.0%
+980	Tiffany Bailey	62	Female	India	Hindi	"Yoruba (Native), Spanish (Intermediate)"	75.0%
+981	Jeremy Manning	34	Other	Brazil	Portuguese	"Japanese (Intermediate), Vietnamese (Beginner)"	37.5%
+982	Karen Lopez	19	Male	Mexico	Spanish	"Arabic (Beginner), Mandarin (Native), Russian (Intermediate)"	58.33%
+983	Allison Kelly	39	Male	Egypt	Arabic	"German (Beginner), Turkish (Fluent)"	50.0%
+984	Austin Davis	44	Other	South Korea	Korean	"English (Beginner), Japanese (Native)"	62.5%
+985	Jody Anderson	28	Other	Russia	Russian	Vietnamese (Intermediate)	50.0%
+986	Emily Alexander	65	Female	Japan	Japanese	"Portuguese (Intermediate), Russian (Beginner)"	37.5%
+987	Brittany Patton	67	Other	Japan	Japanese	"English (Fluent), Korean (Intermediate), Turkish (Fluent)"	66.67%
+988	Katherine Fletcher	25	Male	Brazil	Portuguese	"Italian (Fluent), Hindi (Native), Korean (Beginner)"	66.67%
+989	Wendy Rowe	39	Other	Germany	German	"Portuguese (Intermediate), English (Intermediate), Turkish (Fluent)"	58.33%
+990	Jorge Long	55	Male	Mexico	Spanish	English (Intermediate)	50.0%
+991	Stephanie Davis	43	Female	Turkey	Turkish	"Mandarin (Native), Spanish (Fluent), French (Intermediate)"	75.0%
+992	Kathy Thomas	52	Female	Japan	Japanese	English (Native)	100.0%
+993	Cheyenne Johnson	57	Other	South Korea	Korean	"Spanish (Native), Turkish (Native)"	100.0%
+994	Kenneth Williams	49	Other	China	Mandarin	"Korean (Intermediate), English (Intermediate)"	50.0%
+995	Kristine Hart	51	Other	Germany	German	Russian (Intermediate)	50.0%
+996	Howard Anderson	29	Male	Japan	Japanese	Arabic (Intermediate)	50.0%
+997	Jacob Rivera	67	Female	Egypt	Arabic	Italian (Fluent)	75.0%
+998	Lori Rodriguez	37	Other	China	Mandarin	"French (Fluent), Portuguese (Beginner)"	50.0%
+999	Whitney Diaz	57	Other	Brazil	Portuguese	Vietnamese (Native)	100.0%
+1000	Mary Alvarez	27	Other	Russia	Russian	"Portuguese (Beginner), Hindi (Beginner), Italian (Beginner)"	25.0%
